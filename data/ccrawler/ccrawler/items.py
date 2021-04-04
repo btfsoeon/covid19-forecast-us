@@ -6,9 +6,10 @@
 import scrapy
 
 
-class CrawlerItem(scrapy.Item):
-
-
+class CcrawlerItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    date = scrapy.Field()
+    state = scrapy.Field()
+    county = scrapy.Field()
+    vaccination_pct = scrapy.Field()

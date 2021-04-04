@@ -1,0 +1,3273 @@
+county,date,state,vaccination_pct
+Autauga,2021-04-03,Alabama,9.5
+Baldwin,2021-04-03,Alabama,14.8
+Barbour,2021-04-03,Alabama,11.6
+Bibb,2021-04-03,Alabama,9.8
+Blount,2021-04-03,Alabama,7.9
+Bullock,2021-04-03,Alabama,15.5
+Butler,2021-04-03,Alabama,11.0
+Calhoun,2021-04-03,Alabama,14.3
+Chambers,2021-04-03,Alabama,10.1
+Cherokee,2021-04-03,Alabama,13.0
+Chilton,2021-04-03,Alabama,8.0
+Choctaw,2021-04-03,Alabama,18.7
+Clarke,2021-04-03,Alabama,17.8
+Clay,2021-04-03,Alabama,12.2
+Cleburne,2021-04-03,Alabama,10.9
+Coffee,2021-04-03,Alabama,11.1
+Colbert,2021-04-03,Alabama,14.8
+Conecuh,2021-04-03,Alabama,15.1
+Coosa,2021-04-03,Alabama,14.4
+Covington,2021-04-03,Alabama,10.7
+Crenshaw,2021-04-03,Alabama,10.5
+Cullman,2021-04-03,Alabama,14.3
+Dale,2021-04-03,Alabama,17.4
+Dallas,2021-04-03,Alabama,14.8
+DeKalb,2021-04-03,Alabama,8.2
+Elmore,2021-04-03,Alabama,11.1
+Escambia,2021-04-03,Alabama,11.0
+Etowah,2021-04-03,Alabama,11.2
+Fayette,2021-04-03,Alabama,12.2
+Franklin,2021-04-03,Alabama,14.6
+Geneva,2021-04-03,Alabama,12.6
+Greene,2021-04-03,Alabama,12.4
+Hale,2021-04-03,Alabama,19.8
+Henry,2021-04-03,Alabama,16.1
+Houston,2021-04-03,Alabama,15.1
+Jackson,2021-04-03,Alabama,15.8
+Jefferson,2021-04-03,Alabama,15.5
+Lamar,2021-04-03,Alabama,16.2
+Lauderdale,2021-04-03,Alabama,15.8
+Lawrence,2021-04-03,Alabama,14.9
+Lee,2021-04-03,Alabama,14.5
+Limestone,2021-04-03,Alabama,11.7
+Lowndes,2021-04-03,Alabama,9.8
+Macon,2021-04-03,Alabama,16.2
+Madison,2021-04-03,Alabama,15.5
+Marengo,2021-04-03,Alabama,17.2
+Marion,2021-04-03,Alabama,12.4
+Marshall,2021-04-03,Alabama,11.4
+Mobile,2021-04-03,Alabama,14.7
+Monroe,2021-04-03,Alabama,14.6
+Montgomery,2021-04-03,Alabama,13.6
+Morgan,2021-04-03,Alabama,13.9
+Perry,2021-04-03,Alabama,18.1
+Pickens,2021-04-03,Alabama,14.4
+Pike,2021-04-03,Alabama,12.9
+Randolph,2021-04-03,Alabama,12.5
+Russell,2021-04-03,Alabama,8.7
+Shelby,2021-04-03,Alabama,8.0
+St. Clair,2021-04-03,Alabama,8.9
+Sumter,2021-04-03,Alabama,14.5
+Talladega,2021-04-03,Alabama,11.3
+Tallapoosa,2021-04-03,Alabama,13.8
+Tuscaloosa,2021-04-03,Alabama,12.8
+Walker,2021-04-03,Alabama,13.3
+Washington,2021-04-03,Alabama,15.7
+Wilcox,2021-04-03,Alabama,19.5
+Winston,2021-04-03,Alabama,7.2
+Aleutians East,2021-04-03,Alaska,19.2
+Aleutians West,2021-04-03,Alaska,14.6
+Anchorage,2021-04-03,Alaska,24.5
+Bethel,2021-04-03,Alaska,34.5
+Bristol Bay,2021-04-03,Alaska,42.2
+Denali,2021-04-03,Alaska,15.5
+Dillingham,2021-04-03,Alaska,26.6
+Fairbanks North Star,2021-04-03,Alaska,16.5
+Haines,2021-04-03,Alaska,43.1
+Hoonah-Angoon,2021-04-03,Alaska,41.5
+Juneau,2021-04-03,Alaska,24.4
+Kenai Peninsula,2021-04-03,Alaska,20.6
+Ketchikan Gateway,2021-04-03,Alaska,25.0
+Kodiak Island,2021-04-03,Alaska,29.3
+Kusilvak Census Area,2021-04-03,Alaska,
+Lake and Peninsula,2021-04-03,Alaska,31.6
+Matanuska-Susitna,2021-04-03,Alaska,14.7
+Nome,2021-04-03,Alaska,43.6
+North Slope,2021-04-03,Alaska,20.4
+Northwest Arctic,2021-04-03,Alaska,30.5
+Petersburg,2021-04-03,Alaska,46.9
+Prince of Wales-Hyder,2021-04-03,Alaska,28.5
+Sitka,2021-04-03,Alaska,45.9
+Skagway,2021-04-03,Alaska,51.6
+Southeast Fairbanks,2021-04-03,Alaska,15.7
+Valdez-Cordova,2021-04-03,Alaska,25.2
+Wrangell,2021-04-03,Alaska,34.5
+Yakutat,2021-04-03,Alaska,48.7
+Yukon-Koyukuk,2021-04-03,Alaska,40.6
+Apache,2021-04-03,Arizona,40.1
+Cochise,2021-04-03,Arizona,17.6
+Coconino,2021-04-03,Arizona,34.4
+Gila,2021-04-03,Arizona,29.2
+Graham,2021-04-03,Arizona,21.8
+Greenlee,2021-04-03,Arizona,24.6
+La Paz,2021-04-03,Arizona,18.6
+Maricopa,2021-04-03,Arizona,16.6
+Mohave,2021-04-03,Arizona,10.8
+Navajo,2021-04-03,Arizona,29.1
+Pima,2021-04-03,Arizona,20.7
+Pinal,2021-04-03,Arizona,16.3
+Santa Cruz,2021-04-03,Arizona,24.9
+Yavapai,2021-04-03,Arizona,19.2
+Yuma,2021-04-03,Arizona,14.0
+Arkansas,2021-04-03,Arkansas,19.1
+Ashley,2021-04-03,Arkansas,13.2
+Baxter,2021-04-03,Arkansas,14.5
+Benton,2021-04-03,Arkansas,11.4
+Boone,2021-04-03,Arkansas,13.3
+Bradley,2021-04-03,Arkansas,18.4
+Calhoun,2021-04-03,Arkansas,12.6
+Carroll,2021-04-03,Arkansas,15.8
+Chicot,2021-04-03,Arkansas,16.7
+Clark,2021-04-03,Arkansas,17.6
+Clay,2021-04-03,Arkansas,17.7
+Cleburne,2021-04-03,Arkansas,15.5
+Cleveland,2021-04-03,Arkansas,19.2
+Columbia,2021-04-03,Arkansas,15.0
+Conway,2021-04-03,Arkansas,17.5
+Craighead,2021-04-03,Arkansas,14.3
+Crawford,2021-04-03,Arkansas,12.4
+Crittenden,2021-04-03,Arkansas,12.7
+Cross,2021-04-03,Arkansas,15.4
+Dallas,2021-04-03,Arkansas,18.8
+Desha,2021-04-03,Arkansas,19.1
+Drew,2021-04-03,Arkansas,16.6
+Faulkner,2021-04-03,Arkansas,16.5
+Franklin,2021-04-03,Arkansas,17.5
+Fulton,2021-04-03,Arkansas,10.3
+Garland,2021-04-03,Arkansas,17.0
+Grant,2021-04-03,Arkansas,13.1
+Greene,2021-04-03,Arkansas,14.6
+Hempstead,2021-04-03,Arkansas,7.4
+Hot Spring,2021-04-03,Arkansas,14.8
+Howard,2021-04-03,Arkansas,16.7
+Independence,2021-04-03,Arkansas,11.8
+Izard,2021-04-03,Arkansas,13.7
+Jackson,2021-04-03,Arkansas,14.6
+Jefferson,2021-04-03,Arkansas,12.7
+Johnson,2021-04-03,Arkansas,14.5
+Lafayette,2021-04-03,Arkansas,12.6
+Lawrence,2021-04-03,Arkansas,13.6
+Lee,2021-04-03,Arkansas,11.7
+Lincoln,2021-04-03,Arkansas,10.6
+Little River,2021-04-03,Arkansas,9.7
+Logan,2021-04-03,Arkansas,14.6
+Lonoke,2021-04-03,Arkansas,13.4
+Madison,2021-04-03,Arkansas,11.1
+Marion,2021-04-03,Arkansas,9.7
+Miller,2021-04-03,Arkansas,3.7
+Mississippi,2021-04-03,Arkansas,11.0
+Monroe,2021-04-03,Arkansas,14.4
+Montgomery,2021-04-03,Arkansas,17.3
+Nevada,2021-04-03,Arkansas,10.4
+Newton,2021-04-03,Arkansas,11.5
+Ouachita,2021-04-03,Arkansas,15.7
+Perry,2021-04-03,Arkansas,17.3
+Phillips,2021-04-03,Arkansas,13.6
+Pike,2021-04-03,Arkansas,13.0
+Poinsett,2021-04-03,Arkansas,13.3
+Polk,2021-04-03,Arkansas,9.3
+Pope,2021-04-03,Arkansas,15.8
+Prairie,2021-04-03,Arkansas,11.5
+Pulaski,2021-04-03,Arkansas,19.8
+Randolph,2021-04-03,Arkansas,10.4
+Saline,2021-04-03,Arkansas,16.6
+Scott,2021-04-03,Arkansas,12.5
+Searcy,2021-04-03,Arkansas,13.8
+Sebastian,2021-04-03,Arkansas,12.2
+Sevier,2021-04-03,Arkansas,10.3
+Sharp,2021-04-03,Arkansas,11.4
+St. Francis,2021-04-03,Arkansas,16.8
+Stone,2021-04-03,Arkansas,15.0
+Union,2021-04-03,Arkansas,12.8
+Van Buren,2021-04-03,Arkansas,15.4
+Washington,2021-04-03,Arkansas,14.5
+White,2021-04-03,Arkansas,13.9
+Woodruff,2021-04-03,Arkansas,18.8
+Yell,2021-04-03,Arkansas,15.9
+Alameda,2021-04-03,California,21.9
+Alpine,2021-04-03,California,
+Amador,2021-04-03,California,16.5
+Butte,2021-04-03,California,18.3
+Calaveras,2021-04-03,California,19.2
+Colusa,2021-04-03,California,13.4
+Contra Costa,2021-04-03,California,22.5
+Del Norte,2021-04-03,California,11.2
+El Dorado,2021-04-03,California,18.0
+Fresno,2021-04-03,California,15.1
+Glenn,2021-04-03,California,15.3
+Humboldt,2021-04-03,California,18.6
+Imperial,2021-04-03,California,14.1
+Inyo,2021-04-03,California,
+Kern,2021-04-03,California,12.0
+Kings,2021-04-03,California,8.8
+Lake,2021-04-03,California,20.4
+Lassen,2021-04-03,California,12.3
+Los Angeles,2021-04-03,California,16.6
+Madera,2021-04-03,California,14.1
+Marin,2021-04-03,California,29.7
+Mariposa,2021-04-03,California,
+Mendocino,2021-04-03,California,23.7
+Merced,2021-04-03,California,10.5
+Modoc,2021-04-03,California,
+Mono,2021-04-03,California,
+Monterey,2021-04-03,California,14.3
+Napa,2021-04-03,California,24.1
+Nevada,2021-04-03,California,19.1
+Orange,2021-04-03,California,16.5
+Placer,2021-04-03,California,21.1
+Plumas,2021-04-03,California,
+Riverside,2021-04-03,California,14.2
+Sacramento,2021-04-03,California,16.1
+San Benito,2021-04-03,California,12.3
+San Bernardino,2021-04-03,California,12.8
+San Diego,2021-04-03,California,14.8
+San Francisco,2021-04-03,California,23.1
+San Joaquin,2021-04-03,California,13.5
+San Luis Obispo,2021-04-03,California,15.7
+San Mateo,2021-04-03,California,22.8
+Santa Barbara,2021-04-03,California,16.9
+Santa Clara,2021-04-03,California,18.6
+Santa Cruz,2021-04-03,California,21.5
+Shasta,2021-04-03,California,13.1
+Sierra,2021-04-03,California,
+Siskiyou,2021-04-03,California,19.8
+Solano,2021-04-03,California,16.0
+Sonoma,2021-04-03,California,23.5
+Stanislaus,2021-04-03,California,13.3
+Sutter,2021-04-03,California,16.5
+Tehama,2021-04-03,California,10.2
+Trinity,2021-04-03,California,
+Tulare,2021-04-03,California,13.0
+Tuolumne,2021-04-03,California,22.7
+Ventura,2021-04-03,California,18.7
+Yolo,2021-04-03,California,20.0
+Yuba,2021-04-03,California,11.0
+Adams,2021-04-03,Colorado,6.7
+Alamosa,2021-04-03,Colorado,9.2
+Arapahoe,2021-04-03,Colorado,8.0
+Archuleta,2021-04-03,Colorado,12.4
+Baca,2021-04-03,Colorado,6.1
+Bent,2021-04-03,Colorado,2.9
+Boulder,2021-04-03,Colorado,10.2
+Broomfield,2021-04-03,Colorado,10.3
+Chaffee,2021-04-03,Colorado,12.2
+Cheyenne,2021-04-03,Colorado,4.5
+Clear Creek,2021-04-03,Colorado,8.1
+Conejos,2021-04-03,Colorado,12.1
+Costilla,2021-04-03,Colorado,15.3
+Crowley,2021-04-03,Colorado,3.4
+Custer,2021-04-03,Colorado,8.3
+Delta,2021-04-03,Colorado,11.0
+Denver,2021-04-03,Colorado,7.8
+Dolores,2021-04-03,Colorado,10.4
+Douglas,2021-04-03,Colorado,9.5
+Eagle,2021-04-03,Colorado,13.9
+El Paso,2021-04-03,Colorado,11.2
+Elbert,2021-04-03,Colorado,6.8
+Fremont,2021-04-03,Colorado,8.5
+Garfield,2021-04-03,Colorado,8.2
+Gilpin,2021-04-03,Colorado,9.3
+Grand,2021-04-03,Colorado,8.7
+Gunnison,2021-04-03,Colorado,11.7
+Hinsdale,2021-04-03,Colorado,15.0
+Huerfano,2021-04-03,Colorado,11.7
+Jackson,2021-04-03,Colorado,7.5
+Jefferson,2021-04-03,Colorado,10.8
+Kiowa,2021-04-03,Colorado,5.9
+Kit Carson,2021-04-03,Colorado,6.7
+La Plata,2021-04-03,Colorado,18.6
+Lake,2021-04-03,Colorado,8.7
+Larimer,2021-04-03,Colorado,10.5
+Las Animas,2021-04-03,Colorado,10.1
+Lincoln,2021-04-03,Colorado,8.2
+Logan,2021-04-03,Colorado,6.1
+Mesa,2021-04-03,Colorado,13.3
+Mineral,2021-04-03,Colorado,12.4
+Moffat,2021-04-03,Colorado,4.1
+Montezuma,2021-04-03,Colorado,16.4
+Montrose,2021-04-03,Colorado,16.6
+Morgan,2021-04-03,Colorado,8.0
+Otero,2021-04-03,Colorado,8.1
+Ouray,2021-04-03,Colorado,23.3
+Park,2021-04-03,Colorado,9.3
+Phillips,2021-04-03,Colorado,6.6
+Pitkin,2021-04-03,Colorado,10.6
+Prowers,2021-04-03,Colorado,6.2
+Pueblo,2021-04-03,Colorado,8.6
+Rio Blanco,2021-04-03,Colorado,6.2
+Rio Grande,2021-04-03,Colorado,12.2
+Routt,2021-04-03,Colorado,13.9
+Saguache,2021-04-03,Colorado,4.5
+San Juan,2021-04-03,Colorado,7.3
+San Miguel,2021-04-03,Colorado,17.2
+Sedgwick,2021-04-03,Colorado,8.8
+Summit,2021-04-03,Colorado,11.7
+Teller,2021-04-03,Colorado,8.4
+Washington,2021-04-03,Colorado,4.9
+Weld,2021-04-03,Colorado,7.3
+Yuma,2021-04-03,Colorado,5.3
+Fairfield,2021-04-03,Connecticut,19.2
+Hartford,2021-04-03,Connecticut,22.2
+Litchfield,2021-04-03,Connecticut,23.5
+Middlesex,2021-04-03,Connecticut,27.8
+New Haven,2021-04-03,Connecticut,22.8
+New London,2021-04-03,Connecticut,25.0
+Tolland,2021-04-03,Connecticut,21.2
+Windham,2021-04-03,Connecticut,20.3
+Kent,2021-04-03,Delaware,14.0
+New Castle,2021-04-03,Delaware,15.7
+Sussex,2021-04-03,Delaware,23.0
+District of Columbia,2021-04-03,District of Columbia,14.6
+Alachua,2021-04-03,Florida,21.1
+Baker,2021-04-03,Florida,10.0
+Bay,2021-04-03,Florida,15.7
+Bradford,2021-04-03,Florida,11.3
+Brevard,2021-04-03,Florida,17.2
+Broward,2021-04-03,Florida,16.1
+Calhoun,2021-04-03,Florida,13.4
+Charlotte,2021-04-03,Florida,22.7
+Citrus,2021-04-03,Florida,21.0
+Clay,2021-04-03,Florida,13.5
+Collier,2021-04-03,Florida,23.0
+Columbia,2021-04-03,Florida,13.8
+DeSoto,2021-04-03,Florida,10.7
+Dixie,2021-04-03,Florida,12.1
+Duval,2021-04-03,Florida,17.0
+Escambia,2021-04-03,Florida,16.7
+Flagler,2021-04-03,Florida,22.6
+Franklin,2021-04-03,Florida,20.2
+Gadsden,2021-04-03,Florida,18.1
+Gilchrist,2021-04-03,Florida,11.9
+Glades,2021-04-03,Florida,9.6
+Gulf,2021-04-03,Florida,19.0
+Hamilton,2021-04-03,Florida,12.1
+Hardee,2021-04-03,Florida,9.2
+Hendry,2021-04-03,Florida,8.6
+Hernando,2021-04-03,Florida,16.6
+Highlands,2021-04-03,Florida,15.1
+Hillsborough,2021-04-03,Florida,13.6
+Holmes,2021-04-03,Florida,10.9
+Indian River,2021-04-03,Florida,24.3
+Jackson,2021-04-03,Florida,16.4
+Jefferson,2021-04-03,Florida,27.0
+Lafayette,2021-04-03,Florida,14.1
+Lake,2021-04-03,Florida,21.5
+Lee,2021-04-03,Florida,17.4
+Leon,2021-04-03,Florida,17.4
+Levy,2021-04-03,Florida,13.6
+Liberty,2021-04-03,Florida,12.2
+Madison,2021-04-03,Florida,16.7
+Manatee,2021-04-03,Florida,17.0
+Marion,2021-04-03,Florida,18.6
+Martin,2021-04-03,Florida,23.5
+Miami-Dade,2021-04-03,Florida,16.5
+Monroe,2021-04-03,Florida,20.0
+Nassau,2021-04-03,Florida,22.4
+Okaloosa,2021-04-03,Florida,17.0
+Okeechobee,2021-04-03,Florida,13.5
+Orange,2021-04-03,Florida,13.3
+Osceola,2021-04-03,Florida,12.1
+Palm Beach,2021-04-03,Florida,19.9
+Pasco,2021-04-03,Florida,15.3
+Pinellas,2021-04-03,Florida,19.5
+Polk,2021-04-03,Florida,12.5
+Putnam,2021-04-03,Florida,12.2
+Santa Rosa,2021-04-03,Florida,14.7
+Sarasota,2021-04-03,Florida,23.4
+Seminole,2021-04-03,Florida,14.8
+St. Johns,2021-04-03,Florida,24.6
+St. Lucie,2021-04-03,Florida,17.7
+Sumter,2021-04-03,Florida,44.4
+Suwannee,2021-04-03,Florida,13.5
+Taylor,2021-04-03,Florida,12.9
+Union,2021-04-03,Florida,9.2
+Volusia,2021-04-03,Florida,18.4
+Wakulla,2021-04-03,Florida,15.8
+Walton,2021-04-03,Florida,15.5
+Washington,2021-04-03,Florida,9.8
+Appling,2021-04-03,Georgia,2.3
+Atkinson,2021-04-03,Georgia,1.7
+Bacon,2021-04-03,Georgia,1.5
+Baker,2021-04-03,Georgia,12.8
+Baldwin,2021-04-03,Georgia,1.7
+Banks,2021-04-03,Georgia,2.4
+Barrow,2021-04-03,Georgia,3.7
+Bartow,2021-04-03,Georgia,2.5
+Ben Hill,2021-04-03,Georgia,2.4
+Berrien,2021-04-03,Georgia,6.0
+Bibb,2021-04-03,Georgia,6.0
+Bleckley,2021-04-03,Georgia,1.5
+Brantley,2021-04-03,Georgia,2.7
+Brooks,2021-04-03,Georgia,12.4
+Bryan,2021-04-03,Georgia,10.6
+Bulloch,2021-04-03,Georgia,9.2
+Burke,2021-04-03,Georgia,11.2
+Butts,2021-04-03,Georgia,2.0
+Calhoun,2021-04-03,Georgia,4.8
+Camden,2021-04-03,Georgia,15.5
+Candler,2021-04-03,Georgia,3.3
+Carroll,2021-04-03,Georgia,5.4
+Catoosa,2021-04-03,Georgia,2.8
+Charlton,2021-04-03,Georgia,1.5
+Chatham,2021-04-03,Georgia,17.4
+Chattahoochee,2021-04-03,Georgia,71.7
+Chattooga,2021-04-03,Georgia,1.8
+Cherokee,2021-04-03,Georgia,8.1
+Clarke,2021-04-03,Georgia,8.6
+Clay,2021-04-03,Georgia,7.9
+Clayton,2021-04-03,Georgia,2.4
+Clinch,2021-04-03,Georgia,10.3
+Cobb,2021-04-03,Georgia,9.1
+Coffee,2021-04-03,Georgia,8.6
+Colquitt,2021-04-03,Georgia,2.7
+Columbia,2021-04-03,Georgia,7.9
+Cook,2021-04-03,Georgia,14.2
+Coweta,2021-04-03,Georgia,6.6
+Crawford,2021-04-03,Georgia,5.0
+Crisp,2021-04-03,Georgia,4.0
+Dade,2021-04-03,Georgia,4.2
+Dawson,2021-04-03,Georgia,1.3
+Decatur,2021-04-03,Georgia,12.6
+DeKalb,2021-04-03,Georgia,7.0
+Dodge,2021-04-03,Georgia,1.8
+Dooly,2021-04-03,Georgia,4.5
+Dougherty,2021-04-03,Georgia,3.6
+Douglas,2021-04-03,Georgia,5.2
+Early,2021-04-03,Georgia,3.5
+Echols,2021-04-03,Georgia,2.9
+Effingham,2021-04-03,Georgia,6.5
+Elbert,2021-04-03,Georgia,5.3
+Emanuel,2021-04-03,Georgia,8.5
+Evans,2021-04-03,Georgia,5.3
+Fannin,2021-04-03,Georgia,6.4
+Fayette,2021-04-03,Georgia,9.9
+Floyd,2021-04-03,Georgia,1.8
+Forsyth,2021-04-03,Georgia,3.7
+Franklin,2021-04-03,Georgia,1.3
+Fulton,2021-04-03,Georgia,6.3
+Gilmer,2021-04-03,Georgia,2.4
+Glascock,2021-04-03,Georgia,3.6
+Glynn,2021-04-03,Georgia,21.4
+Gordon,2021-04-03,Georgia,0.7
+Grady,2021-04-03,Georgia,3.3
+Greene,2021-04-03,Georgia,17.9
+Gwinnett,2021-04-03,Georgia,5.3
+Habersham,2021-04-03,Georgia,3.7
+Hall,2021-04-03,Georgia,6.3
+Hancock,2021-04-03,Georgia,1.7
+Haralson,2021-04-03,Georgia,3.0
+Harris,2021-04-03,Georgia,5.7
+Hart,2021-04-03,Georgia,10.0
+Heard,2021-04-03,Georgia,2.5
+Henry,2021-04-03,Georgia,4.3
+Houston,2021-04-03,Georgia,10.4
+Irwin,2021-04-03,Georgia,3.2
+Jackson,2021-04-03,Georgia,7.5
+Jasper,2021-04-03,Georgia,4.0
+Jeff Davis,2021-04-03,Georgia,1.6
+Jefferson,2021-04-03,Georgia,8.7
+Jenkins,2021-04-03,Georgia,6.5
+Johnson,2021-04-03,Georgia,2.4
+Jones,2021-04-03,Georgia,7.1
+Lamar,2021-04-03,Georgia,2.8
+Lanier,2021-04-03,Georgia,3.2
+Laurens,2021-04-03,Georgia,8.1
+Lee,2021-04-03,Georgia,1.7
+Liberty,2021-04-03,Georgia,15.5
+Lincoln,2021-04-03,Georgia,4.0
+Long,2021-04-03,Georgia,0.9
+Lowndes,2021-04-03,Georgia,8.7
+Lumpkin,2021-04-03,Georgia,0.7
+Macon,2021-04-03,Georgia,3.2
+Madison,2021-04-03,Georgia,5.2
+Marion,2021-04-03,Georgia,2.4
+McDuffie,2021-04-03,Georgia,3.5
+McIntosh,2021-04-03,Georgia,16.1
+Meriwether,2021-04-03,Georgia,6.2
+Miller,2021-04-03,Georgia,4.4
+Mitchell,2021-04-03,Georgia,3.6
+Monroe,2021-04-03,Georgia,1.5
+Montgomery,2021-04-03,Georgia,6.0
+Morgan,2021-04-03,Georgia,7.8
+Murray,2021-04-03,Georgia,1.6
+Muscogee,2021-04-03,Georgia,8.8
+Newton,2021-04-03,Georgia,2.7
+Oconee,2021-04-03,Georgia,10.0
+Oglethorpe,2021-04-03,Georgia,9.2
+Paulding,2021-04-03,Georgia,4.0
+Peach,2021-04-03,Georgia,1.8
+Pickens,2021-04-03,Georgia,3.8
+Pierce,2021-04-03,Georgia,8.4
+Pike,2021-04-03,Georgia,2.6
+Polk,2021-04-03,Georgia,0.8
+Pulaski,2021-04-03,Georgia,2.5
+Putnam,2021-04-03,Georgia,2.7
+Quitman,2021-04-03,Georgia,4.5
+Rabun,2021-04-03,Georgia,9.9
+Randolph,2021-04-03,Georgia,2.1
+Richmond,2021-04-03,Georgia,11.3
+Rockdale,2021-04-03,Georgia,1.8
+Schley,2021-04-03,Georgia,2.0
+Screven,2021-04-03,Georgia,11.9
+Seminole,2021-04-03,Georgia,1.6
+Spalding,2021-04-03,Georgia,2.4
+Stephens,2021-04-03,Georgia,0.9
+Stewart,2021-04-03,Georgia,5.7
+Sumter,2021-04-03,Georgia,12.3
+Talbot,2021-04-03,Georgia,9.0
+Taliaferro,2021-04-03,Georgia,4.9
+Tattnall,2021-04-03,Georgia,2.1
+Taylor,2021-04-03,Georgia,9.7
+Telfair,2021-04-03,Georgia,5.6
+Terrell,2021-04-03,Georgia,3.8
+Thomas,2021-04-03,Georgia,6.5
+Tift,2021-04-03,Georgia,7.1
+Toombs,2021-04-03,Georgia,3.0
+Towns,2021-04-03,Georgia,1.7
+Treutlen,2021-04-03,Georgia,2.6
+Troup,2021-04-03,Georgia,4.1
+Turner,2021-04-03,Georgia,5.2
+Twiggs,2021-04-03,Georgia,1.4
+Union,2021-04-03,Georgia,2.6
+Upson,2021-04-03,Georgia,13.7
+Walker,2021-04-03,Georgia,6.2
+Walton,2021-04-03,Georgia,5.8
+Ware,2021-04-03,Georgia,7.1
+Warren,2021-04-03,Georgia,2.5
+Washington,2021-04-03,Georgia,3.2
+Wayne,2021-04-03,Georgia,11.4
+Webster,2021-04-03,Georgia,4.0
+Wheeler,2021-04-03,Georgia,2.3
+White,2021-04-03,Georgia,1.2
+Whitfield,2021-04-03,Georgia,5.0
+Wilcox,2021-04-03,Georgia,2.7
+Wilkes,2021-04-03,Georgia,4.4
+Wilkinson,2021-04-03,Georgia,5.5
+Worth,2021-04-03,Georgia,3.2
+Hawaii,2021-04-03,Hawaii,
+Honolulu,2021-04-03,Hawaii,
+Kalawao,2021-04-03,Hawaii,
+Kauai,2021-04-03,Hawaii,
+Maui,2021-04-03,Hawaii,
+Ada,2021-04-03,Idaho,21.2
+Adams,2021-04-03,Idaho,16.3
+Bannock,2021-04-03,Idaho,17.4
+Bear Lake,2021-04-03,Idaho,20.7
+Benewah,2021-04-03,Idaho,20.5
+Bingham,2021-04-03,Idaho,16.1
+Blaine,2021-04-03,Idaho,29.2
+Boise,2021-04-03,Idaho,14.0
+Bonner,2021-04-03,Idaho,18.8
+Bonneville,2021-04-03,Idaho,15.9
+Boundary,2021-04-03,Idaho,14.5
+Butte,2021-04-03,Idaho,20.6
+Camas,2021-04-03,Idaho,15.7
+Canyon,2021-04-03,Idaho,12.8
+Caribou,2021-04-03,Idaho,12.9
+Cassia,2021-04-03,Idaho,10.8
+Clark,2021-04-03,Idaho,9.6
+Clearwater,2021-04-03,Idaho,16.4
+Custer,2021-04-03,Idaho,20.9
+Elmore,2021-04-03,Idaho,14.0
+Franklin,2021-04-03,Idaho,13.0
+Fremont,2021-04-03,Idaho,14.4
+Gem,2021-04-03,Idaho,15.4
+Gooding,2021-04-03,Idaho,12.8
+Idaho,2021-04-03,Idaho,13.8
+Jefferson,2021-04-03,Idaho,11.9
+Jerome,2021-04-03,Idaho,12.1
+Kootenai,2021-04-03,Idaho,19.5
+Latah,2021-04-03,Idaho,19.9
+Lemhi,2021-04-03,Idaho,22.2
+Lewis,2021-04-03,Idaho,22.5
+Lincoln,2021-04-03,Idaho,11.4
+Madison,2021-04-03,Idaho,10.5
+Minidoka,2021-04-03,Idaho,11.0
+Nez Perce,2021-04-03,Idaho,20.6
+Oneida,2021-04-03,Idaho,18.2
+Owyhee,2021-04-03,Idaho,10.4
+Payette,2021-04-03,Idaho,12.1
+Power,2021-04-03,Idaho,19.4
+Shoshone,2021-04-03,Idaho,22.1
+Teton,2021-04-03,Idaho,18.5
+Twin Falls,2021-04-03,Idaho,15.3
+Valley,2021-04-03,Idaho,25.9
+Washington,2021-04-03,Idaho,14.7
+Adams,2021-04-03,Illinois,30.2
+Alexander,2021-04-03,Illinois,11.8
+Bond,2021-04-03,Illinois,19.9
+Boone,2021-04-03,Illinois,15.0
+Brown,2021-04-03,Illinois,16.5
+Bureau,2021-04-03,Illinois,17.4
+Calhoun,2021-04-03,Illinois,30.6
+Carroll,2021-04-03,Illinois,21.5
+Cass,2021-04-03,Illinois,26.0
+Champaign,2021-04-03,Illinois,24.1
+Christian,2021-04-03,Illinois,18.0
+Clark,2021-04-03,Illinois,15.0
+Clay,2021-04-03,Illinois,19.2
+Clinton,2021-04-03,Illinois,20.7
+Coles,2021-04-03,Illinois,15.7
+Cook,2021-04-03,Illinois,16.4
+Crawford,2021-04-03,Illinois,19.9
+Cumberland,2021-04-03,Illinois,16.0
+De Witt,2021-04-03,Illinois,19.0
+DeKalb,2021-04-03,Illinois,12.8
+Douglas,2021-04-03,Illinois,15.8
+DuPage,2021-04-03,Illinois,18.2
+Edgar,2021-04-03,Illinois,15.0
+Edwards,2021-04-03,Illinois,20.3
+Effingham,2021-04-03,Illinois,15.9
+Fayette,2021-04-03,Illinois,13.0
+Ford,2021-04-03,Illinois,20.8
+Franklin,2021-04-03,Illinois,15.7
+Fulton,2021-04-03,Illinois,19.0
+Gallatin,2021-04-03,Illinois,23.0
+Greene,2021-04-03,Illinois,22.6
+Grundy,2021-04-03,Illinois,12.8
+Hamilton,2021-04-03,Illinois,17.9
+Hancock,2021-04-03,Illinois,23.3
+Hardin,2021-04-03,Illinois,18.3
+Henderson,2021-04-03,Illinois,14.9
+Henry,2021-04-03,Illinois,19.3
+Iroquois,2021-04-03,Illinois,18.7
+Jackson,2021-04-03,Illinois,25.9
+Jasper,2021-04-03,Illinois,16.0
+Jefferson,2021-04-03,Illinois,17.9
+Jersey,2021-04-03,Illinois,21.8
+Jo Daviess,2021-04-03,Illinois,26.3
+Johnson,2021-04-03,Illinois,15.8
+Kane,2021-04-03,Illinois,15.2
+Kankakee,2021-04-03,Illinois,12.6
+Kendall,2021-04-03,Illinois,16.2
+Knox,2021-04-03,Illinois,20.0
+Lake,2021-04-03,Illinois,16.2
+LaSalle,2021-04-03,Illinois,15.0
+Lawrence,2021-04-03,Illinois,17.6
+Lee,2021-04-03,Illinois,14.8
+Livingston,2021-04-03,Illinois,15.6
+Logan,2021-04-03,Illinois,21.9
+Macon,2021-04-03,Illinois,16.2
+Macoupin,2021-04-03,Illinois,19.7
+Madison,2021-04-03,Illinois,21.6
+Marion,2021-04-03,Illinois,14.6
+Marshall,2021-04-03,Illinois,19.1
+Mason,2021-04-03,Illinois,21.5
+Massac,2021-04-03,Illinois,11.4
+McDonough,2021-04-03,Illinois,18.5
+McHenry,2021-04-03,Illinois,14.6
+McLean,2021-04-03,Illinois,14.6
+Menard,2021-04-03,Illinois,24.1
+Mercer,2021-04-03,Illinois,21.6
+Monroe,2021-04-03,Illinois,19.6
+Montgomery,2021-04-03,Illinois,16.2
+Morgan,2021-04-03,Illinois,21.3
+Moultrie,2021-04-03,Illinois,17.4
+Ogle,2021-04-03,Illinois,16.7
+Peoria,2021-04-03,Illinois,22.1
+Perry,2021-04-03,Illinois,17.7
+Piatt,2021-04-03,Illinois,26.8
+Pike,2021-04-03,Illinois,20.3
+Pope,2021-04-03,Illinois,14.1
+Pulaski,2021-04-03,Illinois,15.4
+Putnam,2021-04-03,Illinois,23.1
+Randolph,2021-04-03,Illinois,18.6
+Richland,2021-04-03,Illinois,20.9
+Rock Island,2021-04-03,Illinois,19.3
+Saline,2021-04-03,Illinois,21.2
+Sangamon,2021-04-03,Illinois,25.7
+Schuyler,2021-04-03,Illinois,30.0
+Scott,2021-04-03,Illinois,20.7
+Shelby,2021-04-03,Illinois,16.5
+St. Clair,2021-04-03,Illinois,22.0
+Stark,2021-04-03,Illinois,19.1
+Stephenson,2021-04-03,Illinois,21.6
+Tazewell,2021-04-03,Illinois,20.8
+Union,2021-04-03,Illinois,25.1
+Vermilion,2021-04-03,Illinois,15.9
+Wabash,2021-04-03,Illinois,23.3
+Warren,2021-04-03,Illinois,19.0
+Washington,2021-04-03,Illinois,24.7
+Wayne,2021-04-03,Illinois,21.9
+White,2021-04-03,Illinois,20.3
+Whiteside,2021-04-03,Illinois,16.9
+Will,2021-04-03,Illinois,14.6
+Williamson,2021-04-03,Illinois,21.8
+Winnebago,2021-04-03,Illinois,16.9
+Woodford,2021-04-03,Illinois,20.1
+Adams,2021-04-03,Indiana,15.3
+Allen,2021-04-03,Indiana,15.6
+Bartholomew,2021-04-03,Indiana,17.7
+Benton,2021-04-03,Indiana,12.6
+Blackford,2021-04-03,Indiana,18.6
+Boone,2021-04-03,Indiana,22.7
+Brown,2021-04-03,Indiana,19.7
+Carroll,2021-04-03,Indiana,11.6
+Cass,2021-04-03,Indiana,14.8
+Clark,2021-04-03,Indiana,24.1
+Clay,2021-04-03,Indiana,20.3
+Clinton,2021-04-03,Indiana,16.3
+Crawford,2021-04-03,Indiana,14.3
+Daviess,2021-04-03,Indiana,13.7
+Dearborn,2021-04-03,Indiana,17.4
+Decatur,2021-04-03,Indiana,20.7
+DeKalb,2021-04-03,Indiana,15.3
+Delaware,2021-04-03,Indiana,18.3
+Dubois,2021-04-03,Indiana,21.1
+Elkhart,2021-04-03,Indiana,14.4
+Fayette,2021-04-03,Indiana,18.2
+Floyd,2021-04-03,Indiana,23.4
+Fountain,2021-04-03,Indiana,17.4
+Franklin,2021-04-03,Indiana,11.6
+Fulton,2021-04-03,Indiana,14.7
+Gibson,2021-04-03,Indiana,19.0
+Grant,2021-04-03,Indiana,17.6
+Greene,2021-04-03,Indiana,15.6
+Hamilton,2021-04-03,Indiana,21.2
+Hancock,2021-04-03,Indiana,22.4
+Harrison,2021-04-03,Indiana,20.6
+Hendricks,2021-04-03,Indiana,22.8
+Henry,2021-04-03,Indiana,18.6
+Howard,2021-04-03,Indiana,15.5
+Huntington,2021-04-03,Indiana,20.2
+Jackson,2021-04-03,Indiana,16.6
+Jasper,2021-04-03,Indiana,15.0
+Jay,2021-04-03,Indiana,15.8
+Jefferson,2021-04-03,Indiana,20.2
+Jennings,2021-04-03,Indiana,14.3
+Johnson,2021-04-03,Indiana,17.9
+Knox,2021-04-03,Indiana,25.8
+Kosciusko,2021-04-03,Indiana,13.5
+LaGrange,2021-04-03,Indiana,9.7
+Lake,2021-04-03,Indiana,15.7
+LaPorte,2021-04-03,Indiana,17.9
+Lawrence,2021-04-03,Indiana,18.2
+Madison,2021-04-03,Indiana,18.3
+Marion,2021-04-03,Indiana,15.6
+Marshall,2021-04-03,Indiana,15.7
+Martin,2021-04-03,Indiana,18.8
+Miami,2021-04-03,Indiana,14.3
+Monroe,2021-04-03,Indiana,15.7
+Montgomery,2021-04-03,Indiana,15.0
+Morgan,2021-04-03,Indiana,17.0
+Newton,2021-04-03,Indiana,10.6
+Noble,2021-04-03,Indiana,13.9
+Ohio,2021-04-03,Indiana,27.6
+Orange,2021-04-03,Indiana,24.0
+Owen,2021-04-03,Indiana,13.6
+Parke,2021-04-03,Indiana,14.3
+Perry,2021-04-03,Indiana,19.6
+Pike,2021-04-03,Indiana,24.8
+Porter,2021-04-03,Indiana,18.5
+Posey,2021-04-03,Indiana,21.2
+Pulaski,2021-04-03,Indiana,18.8
+Putnam,2021-04-03,Indiana,13.6
+Randolph,2021-04-03,Indiana,20.1
+Ripley,2021-04-03,Indiana,19.3
+Rush,2021-04-03,Indiana,22.4
+Scott,2021-04-03,Indiana,15.9
+Shelby,2021-04-03,Indiana,19.6
+Spencer,2021-04-03,Indiana,17.9
+St. Joseph,2021-04-03,Indiana,20.2
+Starke,2021-04-03,Indiana,13.7
+Steuben,2021-04-03,Indiana,23.6
+Sullivan,2021-04-03,Indiana,17.3
+Switzerland,2021-04-03,Indiana,11.6
+Tippecanoe,2021-04-03,Indiana,13.2
+Tipton,2021-04-03,Indiana,15.6
+Union,2021-04-03,Indiana,20.6
+Vanderburgh,2021-04-03,Indiana,24.9
+Vermillion,2021-04-03,Indiana,17.8
+Vigo,2021-04-03,Indiana,20.4
+Wabash,2021-04-03,Indiana,18.7
+Warren,2021-04-03,Indiana,17.1
+Warrick,2021-04-03,Indiana,25.6
+Washington,2021-04-03,Indiana,15.6
+Wayne,2021-04-03,Indiana,22.2
+Wells,2021-04-03,Indiana,17.1
+White,2021-04-03,Indiana,19.9
+Whitley,2021-04-03,Indiana,18.0
+Adair,2021-04-03,Iowa,18.3
+Adams,2021-04-03,Iowa,23.8
+Allamakee,2021-04-03,Iowa,24.3
+Appanoose,2021-04-03,Iowa,18.2
+Audubon,2021-04-03,Iowa,27.1
+Benton,2021-04-03,Iowa,22.2
+Black Hawk,2021-04-03,Iowa,21.5
+Boone,2021-04-03,Iowa,22.9
+Bremer,2021-04-03,Iowa,23.7
+Buchanan,2021-04-03,Iowa,21.1
+Buena Vista,2021-04-03,Iowa,26.9
+Butler,2021-04-03,Iowa,25.6
+Calhoun,2021-04-03,Iowa,25.9
+Carroll,2021-04-03,Iowa,26.7
+Cass,2021-04-03,Iowa,27.3
+Cedar,2021-04-03,Iowa,23.7
+Cerro Gordo,2021-04-03,Iowa,25.6
+Cherokee,2021-04-03,Iowa,24.4
+Chickasaw,2021-04-03,Iowa,22.0
+Clarke,2021-04-03,Iowa,20.3
+Clay,2021-04-03,Iowa,20.3
+Clayton,2021-04-03,Iowa,23.2
+Clinton,2021-04-03,Iowa,18.2
+Crawford,2021-04-03,Iowa,22.9
+Dallas,2021-04-03,Iowa,17.4
+Davis,2021-04-03,Iowa,16.5
+Decatur,2021-04-03,Iowa,14.7
+Delaware,2021-04-03,Iowa,19.7
+Des Moines,2021-04-03,Iowa,22.0
+Dickinson,2021-04-03,Iowa,24.1
+Dubuque,2021-04-03,Iowa,25.8
+Emmet,2021-04-03,Iowa,19.7
+Fayette,2021-04-03,Iowa,24.1
+Floyd,2021-04-03,Iowa,21.4
+Franklin,2021-04-03,Iowa,20.3
+Fremont,2021-04-03,Iowa,22.1
+Greene,2021-04-03,Iowa,22.1
+Grundy,2021-04-03,Iowa,24.2
+Guthrie,2021-04-03,Iowa,22.4
+Hamilton,2021-04-03,Iowa,24.0
+Hancock,2021-04-03,Iowa,20.9
+Hardin,2021-04-03,Iowa,23.0
+Harrison,2021-04-03,Iowa,18.6
+Henry,2021-04-03,Iowa,16.2
+Howard,2021-04-03,Iowa,18.9
+Humboldt,2021-04-03,Iowa,19.0
+Ida,2021-04-03,Iowa,20.8
+Iowa,2021-04-03,Iowa,25.3
+Jackson,2021-04-03,Iowa,22.8
+Jasper,2021-04-03,Iowa,19.5
+Jefferson,2021-04-03,Iowa,14.7
+Johnson,2021-04-03,Iowa,26.2
+Jones,2021-04-03,Iowa,20.3
+Keokuk,2021-04-03,Iowa,18.9
+Kossuth,2021-04-03,Iowa,21.1
+Lee,2021-04-03,Iowa,18.5
+Linn,2021-04-03,Iowa,21.7
+Louisa,2021-04-03,Iowa,22.7
+Lucas,2021-04-03,Iowa,17.7
+Lyon,2021-04-03,Iowa,18.0
+Madison,2021-04-03,Iowa,18.9
+Mahaska,2021-04-03,Iowa,16.8
+Marion,2021-04-03,Iowa,22.1
+Marshall,2021-04-03,Iowa,21.0
+Mills,2021-04-03,Iowa,20.7
+Mitchell,2021-04-03,Iowa,19.3
+Monona,2021-04-03,Iowa,19.3
+Monroe,2021-04-03,Iowa,21.3
+Montgomery,2021-04-03,Iowa,20.5
+Muscatine,2021-04-03,Iowa,20.2
+O'Brien,2021-04-03,Iowa,23.0
+Osceola,2021-04-03,Iowa,19.5
+Page,2021-04-03,Iowa,21.9
+Palo Alto,2021-04-03,Iowa,21.6
+Plymouth,2021-04-03,Iowa,26.7
+Pocahontas,2021-04-03,Iowa,20.9
+Polk,2021-04-03,Iowa,17.6
+Pottawattamie,2021-04-03,Iowa,19.0
+Poweshiek,2021-04-03,Iowa,21.0
+Ringgold,2021-04-03,Iowa,25.4
+Sac,2021-04-03,Iowa,25.7
+Scott,2021-04-03,Iowa,21.1
+Shelby,2021-04-03,Iowa,25.7
+Sioux,2021-04-03,Iowa,18.2
+Story,2021-04-03,Iowa,17.4
+Tama,2021-04-03,Iowa,26.4
+Taylor,2021-04-03,Iowa,23.5
+Union,2021-04-03,Iowa,18.0
+Van Buren,2021-04-03,Iowa,15.1
+Wapello,2021-04-03,Iowa,18.5
+Warren,2021-04-03,Iowa,18.7
+Washington,2021-04-03,Iowa,21.2
+Wayne,2021-04-03,Iowa,17.5
+Webster,2021-04-03,Iowa,21.5
+Winnebago,2021-04-03,Iowa,18.8
+Winneshiek,2021-04-03,Iowa,19.3
+Woodbury,2021-04-03,Iowa,20.9
+Worth,2021-04-03,Iowa,19.6
+Wright,2021-04-03,Iowa,24.6
+Allen,2021-04-03,Kansas,16.8
+Anderson,2021-04-03,Kansas,16.3
+Atchison,2021-04-03,Kansas,14.3
+Barber,2021-04-03,Kansas,27.6
+Barton,2021-04-03,Kansas,18.7
+Bourbon,2021-04-03,Kansas,13.1
+Brown,2021-04-03,Kansas,24.4
+Butler,2021-04-03,Kansas,13.9
+Chase,2021-04-03,Kansas,22.3
+Chautauqua,2021-04-03,Kansas,23.1
+Cherokee,2021-04-03,Kansas,16.5
+Cheyenne,2021-04-03,Kansas,24.2
+Clark,2021-04-03,Kansas,26.7
+Clay,2021-04-03,Kansas,22.0
+Cloud,2021-04-03,Kansas,18.5
+Coffey,2021-04-03,Kansas,16.5
+Comanche,2021-04-03,Kansas,29.7
+Cowley,2021-04-03,Kansas,17.9
+Crawford,2021-04-03,Kansas,15.9
+Decatur,2021-04-03,Kansas,21.0
+Dickinson,2021-04-03,Kansas,20.5
+Doniphan,2021-04-03,Kansas,18.1
+Douglas,2021-04-03,Kansas,20.0
+Edwards,2021-04-03,Kansas,22.6
+Elk,2021-04-03,Kansas,15.1
+Ellis,2021-04-03,Kansas,19.3
+Ellsworth,2021-04-03,Kansas,23.7
+Finney,2021-04-03,Kansas,10.8
+Ford,2021-04-03,Kansas,14.3
+Franklin,2021-04-03,Kansas,16.1
+Geary,2021-04-03,Kansas,14.0
+Gove,2021-04-03,Kansas,30.2
+Graham,2021-04-03,Kansas,30.7
+Grant,2021-04-03,Kansas,19.2
+Gray,2021-04-03,Kansas,19.0
+Greeley,2021-04-03,Kansas,30.1
+Greenwood,2021-04-03,Kansas,21.3
+Hamilton,2021-04-03,Kansas,17.3
+Harper,2021-04-03,Kansas,19.6
+Harvey,2021-04-03,Kansas,16.8
+Haskell,2021-04-03,Kansas,20.4
+Hodgeman,2021-04-03,Kansas,26.6
+Jackson,2021-04-03,Kansas,25.0
+Jefferson,2021-04-03,Kansas,20.0
+Jewell,2021-04-03,Kansas,23.4
+Johnson,2021-04-03,Kansas,20.9
+Kearny,2021-04-03,Kansas,22.8
+Kingman,2021-04-03,Kansas,22.9
+Kiowa,2021-04-03,Kansas,25.6
+Labette,2021-04-03,Kansas,19.1
+Lane,2021-04-03,Kansas,25.1
+Leavenworth,2021-04-03,Kansas,18.9
+Lincoln,2021-04-03,Kansas,21.2
+Linn,2021-04-03,Kansas,13.3
+Logan,2021-04-03,Kansas,25.4
+Lyon,2021-04-03,Kansas,22.8
+Marion,2021-04-03,Kansas,19.8
+Marshall,2021-04-03,Kansas,21.0
+McPherson,2021-04-03,Kansas,21.4
+Meade,2021-04-03,Kansas,21.2
+Miami,2021-04-03,Kansas,17.5
+Mitchell,2021-04-03,Kansas,23.3
+Montgomery,2021-04-03,Kansas,16.3
+Morris,2021-04-03,Kansas,23.5
+Morton,2021-04-03,Kansas,14.9
+Nemaha,2021-04-03,Kansas,23.6
+Neosho,2021-04-03,Kansas,11.2
+Ness,2021-04-03,Kansas,25.6
+Norton,2021-04-03,Kansas,26.9
+Osage,2021-04-03,Kansas,18.7
+Osborne,2021-04-03,Kansas,23.1
+Ottawa,2021-04-03,Kansas,18.0
+Pawnee,2021-04-03,Kansas,28.0
+Phillips,2021-04-03,Kansas,21.4
+Pottawatomie,2021-04-03,Kansas,14.2
+Pratt,2021-04-03,Kansas,22.2
+Rawlins,2021-04-03,Kansas,21.6
+Reno,2021-04-03,Kansas,17.4
+Republic,2021-04-03,Kansas,23.8
+Rice,2021-04-03,Kansas,12.9
+Riley,2021-04-03,Kansas,13.4
+Rooks,2021-04-03,Kansas,23.5
+Rush,2021-04-03,Kansas,23.6
+Russell,2021-04-03,Kansas,19.9
+Saline,2021-04-03,Kansas,14.7
+Scott,2021-04-03,Kansas,22.3
+Sedgwick,2021-04-03,Kansas,11.4
+Seward,2021-04-03,Kansas,13.8
+Shawnee,2021-04-03,Kansas,21.5
+Sheridan,2021-04-03,Kansas,23.1
+Sherman,2021-04-03,Kansas,18.5
+Smith,2021-04-03,Kansas,25.0
+Stafford,2021-04-03,Kansas,22.9
+Stanton,2021-04-03,Kansas,23.8
+Stevens,2021-04-03,Kansas,13.2
+Sumner,2021-04-03,Kansas,15.7
+Thomas,2021-04-03,Kansas,19.4
+Trego,2021-04-03,Kansas,23.7
+Wabaunsee,2021-04-03,Kansas,17.7
+Wallace,2021-04-03,Kansas,19.8
+Washington,2021-04-03,Kansas,21.8
+Wichita,2021-04-03,Kansas,28.6
+Wilson,2021-04-03,Kansas,18.2
+Woodson,2021-04-03,Kansas,18.0
+Wyandotte,2021-04-03,Kansas,12.0
+Adair,2021-04-03,Kentucky,11.7
+Allen,2021-04-03,Kentucky,16.3
+Anderson,2021-04-03,Kentucky,19.0
+Ballard,2021-04-03,Kentucky,11.6
+Barren,2021-04-03,Kentucky,17.2
+Bath,2021-04-03,Kentucky,17.8
+Bell,2021-04-03,Kentucky,17.4
+Boone,2021-04-03,Kentucky,15.9
+Bourbon,2021-04-03,Kentucky,18.3
+Boyd,2021-04-03,Kentucky,16.9
+Boyle,2021-04-03,Kentucky,19.6
+Bracken,2021-04-03,Kentucky,18.8
+Breathitt,2021-04-03,Kentucky,16.6
+Breckinridge,2021-04-03,Kentucky,14.5
+Bullitt,2021-04-03,Kentucky,13.2
+Butler,2021-04-03,Kentucky,17.7
+Caldwell,2021-04-03,Kentucky,19.0
+Calloway,2021-04-03,Kentucky,13.1
+Campbell,2021-04-03,Kentucky,19.6
+Carlisle,2021-04-03,Kentucky,13.9
+Carroll,2021-04-03,Kentucky,19.7
+Carter,2021-04-03,Kentucky,16.1
+Casey,2021-04-03,Kentucky,10.6
+Christian,2021-04-03,Kentucky,8.8
+Clark,2021-04-03,Kentucky,18.0
+Clay,2021-04-03,Kentucky,13.3
+Clinton,2021-04-03,Kentucky,14.5
+Crittenden,2021-04-03,Kentucky,14.6
+Cumberland,2021-04-03,Kentucky,15.8
+Daviess,2021-04-03,Kentucky,21.1
+Edmonson,2021-04-03,Kentucky,16.4
+Elliott,2021-04-03,Kentucky,10.7
+Estill,2021-04-03,Kentucky,16.5
+Fayette,2021-04-03,Kentucky,26.3
+Fleming,2021-04-03,Kentucky,19.0
+Floyd,2021-04-03,Kentucky,24.2
+Franklin,2021-04-03,Kentucky,24.4
+Fulton,2021-04-03,Kentucky,15.1
+Gallatin,2021-04-03,Kentucky,14.8
+Garrard,2021-04-03,Kentucky,16.4
+Grant,2021-04-03,Kentucky,13.6
+Graves,2021-04-03,Kentucky,13.4
+Grayson,2021-04-03,Kentucky,17.1
+Green,2021-04-03,Kentucky,13.8
+Greenup,2021-04-03,Kentucky,17.6
+Hancock,2021-04-03,Kentucky,24.0
+Hardin,2021-04-03,Kentucky,18.4
+Harlan,2021-04-03,Kentucky,15.4
+Harrison,2021-04-03,Kentucky,20.9
+Hart,2021-04-03,Kentucky,11.9
+Henderson,2021-04-03,Kentucky,15.1
+Henry,2021-04-03,Kentucky,18.4
+Hickman,2021-04-03,Kentucky,12.6
+Hopkins,2021-04-03,Kentucky,20.1
+Jackson,2021-04-03,Kentucky,12.1
+Jefferson,2021-04-03,Kentucky,18.9
+Jessamine,2021-04-03,Kentucky,19.2
+Johnson,2021-04-03,Kentucky,18.8
+Kenton,2021-04-03,Kentucky,18.4
+Knott,2021-04-03,Kentucky,20.6
+Knox,2021-04-03,Kentucky,14.1
+Larue,2021-04-03,Kentucky,14.4
+Laurel,2021-04-03,Kentucky,14.8
+Lawrence,2021-04-03,Kentucky,16.6
+Lee,2021-04-03,Kentucky,12.7
+Leslie,2021-04-03,Kentucky,21.6
+Letcher,2021-04-03,Kentucky,24.5
+Lewis,2021-04-03,Kentucky,10.7
+Lincoln,2021-04-03,Kentucky,12.8
+Livingston,2021-04-03,Kentucky,16.6
+Logan,2021-04-03,Kentucky,17.9
+Lyon,2021-04-03,Kentucky,23.2
+Madison,2021-04-03,Kentucky,16.8
+Magoffin,2021-04-03,Kentucky,20.0
+Marion,2021-04-03,Kentucky,15.5
+Marshall,2021-04-03,Kentucky,17.9
+Martin,2021-04-03,Kentucky,17.3
+Mason,2021-04-03,Kentucky,20.9
+McCracken,2021-04-03,Kentucky,17.9
+McCreary,2021-04-03,Kentucky,11.7
+McLean,2021-04-03,Kentucky,20.9
+Meade,2021-04-03,Kentucky,12.9
+Menifee,2021-04-03,Kentucky,15.9
+Mercer,2021-04-03,Kentucky,16.8
+Metcalfe,2021-04-03,Kentucky,14.0
+Monroe,2021-04-03,Kentucky,18.8
+Montgomery,2021-04-03,Kentucky,15.1
+Morgan,2021-04-03,Kentucky,15.5
+Muhlenberg,2021-04-03,Kentucky,19.2
+Nelson,2021-04-03,Kentucky,16.3
+Nicholas,2021-04-03,Kentucky,24.4
+Ohio,2021-04-03,Kentucky,14.0
+Oldham,2021-04-03,Kentucky,17.8
+Owen,2021-04-03,Kentucky,14.9
+Owsley,2021-04-03,Kentucky,16.6
+Pendleton,2021-04-03,Kentucky,15.9
+Perry,2021-04-03,Kentucky,25.9
+Pike,2021-04-03,Kentucky,27.3
+Powell,2021-04-03,Kentucky,19.2
+Pulaski,2021-04-03,Kentucky,14.7
+Robertson,2021-04-03,Kentucky,18.9
+Rockcastle,2021-04-03,Kentucky,12.6
+Rowan,2021-04-03,Kentucky,18.5
+Russell,2021-04-03,Kentucky,16.8
+Scott,2021-04-03,Kentucky,20.1
+Shelby,2021-04-03,Kentucky,14.2
+Simpson,2021-04-03,Kentucky,16.9
+Spencer,2021-04-03,Kentucky,8.0
+Taylor,2021-04-03,Kentucky,12.4
+Todd,2021-04-03,Kentucky,11.9
+Trigg,2021-04-03,Kentucky,19.6
+Trimble,2021-04-03,Kentucky,13.3
+Union,2021-04-03,Kentucky,12.9
+Warren,2021-04-03,Kentucky,17.7
+Washington,2021-04-03,Kentucky,17.0
+Wayne,2021-04-03,Kentucky,10.2
+Webster,2021-04-03,Kentucky,16.4
+Whitley,2021-04-03,Kentucky,17.7
+Wolfe,2021-04-03,Kentucky,19.0
+Woodford,2021-04-03,Kentucky,27.6
+Acadia,2021-04-03,Louisiana,14.7
+Allen,2021-04-03,Louisiana,10.7
+Ascension,2021-04-03,Louisiana,15.1
+Assumption,2021-04-03,Louisiana,14.4
+Avoyelles,2021-04-03,Louisiana,12.1
+Beauregard,2021-04-03,Louisiana,9.7
+Bienville,2021-04-03,Louisiana,17.9
+Bossier,2021-04-03,Louisiana,15.8
+Caddo,2021-04-03,Louisiana,18.7
+Calcasieu,2021-04-03,Louisiana,13.0
+Caldwell,2021-04-03,Louisiana,15.7
+Cameron,2021-04-03,Louisiana,5.9
+Catahoula,2021-04-03,Louisiana,13.7
+Claiborne,2021-04-03,Louisiana,13.1
+Concordia,2021-04-03,Louisiana,10.4
+De Soto,2021-04-03,Louisiana,14.6
+East Baton Rouge,2021-04-03,Louisiana,19.1
+East Carroll,2021-04-03,Louisiana,19.8
+East Feliciana,2021-04-03,Louisiana,13.5
+Evangeline,2021-04-03,Louisiana,11.9
+Franklin,2021-04-03,Louisiana,14.2
+Grant,2021-04-03,Louisiana,15.2
+Iberia,2021-04-03,Louisiana,13.0
+Iberville,2021-04-03,Louisiana,15.7
+Jackson,2021-04-03,Louisiana,14.9
+Jefferson,2021-04-03,Louisiana,21.9
+Jefferson Davis,2021-04-03,Louisiana,11.3
+Lafayette,2021-04-03,Louisiana,14.8
+Lafourche,2021-04-03,Louisiana,14.7
+LaSalle,2021-04-03,Louisiana,13.9
+Lincoln,2021-04-03,Louisiana,16.6
+Livingston,2021-04-03,Louisiana,11.6
+Madison,2021-04-03,Louisiana,12.7
+Morehouse,2021-04-03,Louisiana,16.4
+Natchitoches,2021-04-03,Louisiana,13.7
+Orleans,2021-04-03,Louisiana,24.1
+Ouachita,2021-04-03,Louisiana,15.3
+Plaquemines,2021-04-03,Louisiana,20.3
+Pointe Coupee,2021-04-03,Louisiana,19.3
+Rapides,2021-04-03,Louisiana,17.0
+Red River,2021-04-03,Louisiana,13.8
+Richland,2021-04-03,Louisiana,17.7
+Sabine,2021-04-03,Louisiana,11.1
+St. Bernard,2021-04-03,Louisiana,13.6
+St. Charles,2021-04-03,Louisiana,19.5
+St. Helena,2021-04-03,Louisiana,10.4
+St. James,2021-04-03,Louisiana,14.1
+St. John the Baptist,2021-04-03,Louisiana,16.4
+St. Landry,2021-04-03,Louisiana,13.9
+St. Martin,2021-04-03,Louisiana,11.0
+St. Mary,2021-04-03,Louisiana,15.3
+St. Tammany,2021-04-03,Louisiana,21.6
+Tangipahoa,2021-04-03,Louisiana,15.6
+Tensas,2021-04-03,Louisiana,22.8
+Terrebonne,2021-04-03,Louisiana,15.3
+Union,2021-04-03,Louisiana,17.2
+Vermilion,2021-04-03,Louisiana,10.0
+Vernon,2021-04-03,Louisiana,9.8
+Washington,2021-04-03,Louisiana,14.8
+Webster,2021-04-03,Louisiana,14.8
+West Baton Rouge,2021-04-03,Louisiana,15.1
+West Carroll,2021-04-03,Louisiana,21.9
+West Feliciana,2021-04-03,Louisiana,30.8
+Winn,2021-04-03,Louisiana,16.3
+Androscoggin,2021-04-03,Maine,15.9
+Aroostook,2021-04-03,Maine,24.6
+Cumberland,2021-04-03,Maine,22.8
+Franklin,2021-04-03,Maine,17.6
+Hancock,2021-04-03,Maine,23.7
+Kennebec,2021-04-03,Maine,18.2
+Knox,2021-04-03,Maine,23.5
+Lincoln,2021-04-03,Maine,24.7
+Oxford,2021-04-03,Maine,16.9
+Penobscot,2021-04-03,Maine,21.4
+Piscataquis,2021-04-03,Maine,20.0
+Sagadahoc,2021-04-03,Maine,23.3
+Somerset,2021-04-03,Maine,17.2
+Waldo,2021-04-03,Maine,19.8
+Washington,2021-04-03,Maine,30.2
+York,2021-04-03,Maine,19.8
+Allegany,2021-04-03,Maryland,18.4
+Anne Arundel,2021-04-03,Maryland,19.6
+Baltimore,2021-04-03,Maryland,19.9
+Baltimore,2021-04-03,Maryland,16.2
+Calvert,2021-04-03,Maryland,18.7
+Caroline,2021-04-03,Maryland,19.8
+Carroll,2021-04-03,Maryland,21.0
+Cecil,2021-04-03,Maryland,17.1
+Charles,2021-04-03,Maryland,13.8
+Dorchester,2021-04-03,Maryland,20.6
+Frederick,2021-04-03,Maryland,20.2
+Garrett,2021-04-03,Maryland,19.6
+Harford,2021-04-03,Maryland,19.3
+Howard,2021-04-03,Maryland,23.2
+Kent,2021-04-03,Maryland,24.9
+Montgomery,2021-04-03,Maryland,22.2
+Prince George's,2021-04-03,Maryland,13.9
+Queen Anne's,2021-04-03,Maryland,20.1
+Somerset,2021-04-03,Maryland,14.7
+St. Mary's,2021-04-03,Maryland,17.3
+Talbot,2021-04-03,Maryland,28.0
+Washington,2021-04-03,Maryland,18.8
+Wicomico,2021-04-03,Maryland,18.4
+Worcester,2021-04-03,Maryland,25.1
+Barnstable,2021-04-03,Massachusetts,2.3
+Berkshire,2021-04-03,Massachusetts,19.4
+Bristol,2021-04-03,Massachusetts,16.3
+Dukes,2021-04-03,Massachusetts,1.3
+Essex,2021-04-03,Massachusetts,21.0
+Franklin,2021-04-03,Massachusetts,20.5
+Hampden,2021-04-03,Massachusetts,16.4
+Hampshire,2021-04-03,Massachusetts,18.6
+Middlesex,2021-04-03,Massachusetts,19.1
+Nantucket,2021-04-03,Massachusetts,0.4
+Norfolk,2021-04-03,Massachusetts,20.9
+Plymouth,2021-04-03,Massachusetts,18.8
+Suffolk,2021-04-03,Massachusetts,17.3
+Worcester,2021-04-03,Massachusetts,16.9
+Alcona,2021-04-03,Michigan,31.0
+Alger,2021-04-03,Michigan,31.6
+Allegan,2021-04-03,Michigan,15.7
+Alpena,2021-04-03,Michigan,23.7
+Antrim,2021-04-03,Michigan,23.8
+Arenac,2021-04-03,Michigan,21.5
+Baraga,2021-04-03,Michigan,27.0
+Barry,2021-04-03,Michigan,16.0
+Bay,2021-04-03,Michigan,20.5
+Benzie,2021-04-03,Michigan,25.1
+Berrien,2021-04-03,Michigan,18.1
+Branch,2021-04-03,Michigan,17.4
+Calhoun,2021-04-03,Michigan,17.7
+Cass,2021-04-03,Michigan,12.9
+Charlevoix,2021-04-03,Michigan,27.8
+Cheboygan,2021-04-03,Michigan,19.8
+Chippewa,2021-04-03,Michigan,32.8
+Clare,2021-04-03,Michigan,19.7
+Clinton,2021-04-03,Michigan,17.9
+Crawford,2021-04-03,Michigan,17.4
+Delta,2021-04-03,Michigan,26.4
+Dickinson,2021-04-03,Michigan,28.7
+Eaton,2021-04-03,Michigan,17.5
+Emmet,2021-04-03,Michigan,28.9
+Genesee,2021-04-03,Michigan,15.4
+Gladwin,2021-04-03,Michigan,18.3
+Gogebic,2021-04-03,Michigan,28.2
+Grand Traverse,2021-04-03,Michigan,27.5
+Gratiot,2021-04-03,Michigan,17.4
+Hillsdale,2021-04-03,Michigan,14.7
+Houghton,2021-04-03,Michigan,18.1
+Huron,2021-04-03,Michigan,20.5
+Ingham,2021-04-03,Michigan,16.6
+Ionia,2021-04-03,Michigan,15.6
+Iosco,2021-04-03,Michigan,23.7
+Iron,2021-04-03,Michigan,26.5
+Isabella,2021-04-03,Michigan,13.8
+Jackson,2021-04-03,Michigan,19.1
+Kalamazoo,2021-04-03,Michigan,20.2
+Kalkaska,2021-04-03,Michigan,19.3
+Kent,2021-04-03,Michigan,18.9
+Keweenaw,2021-04-03,Michigan,27.2
+Lake,2021-04-03,Michigan,17.0
+Lapeer,2021-04-03,Michigan,13.4
+Leelanau,2021-04-03,Michigan,37.2
+Lenawee,2021-04-03,Michigan,17.4
+Livingston,2021-04-03,Michigan,16.2
+Luce,2021-04-03,Michigan,21.7
+Mackinac,2021-04-03,Michigan,30.2
+Macomb,2021-04-03,Michigan,16.7
+Manistee,2021-04-03,Michigan,20.8
+Marquette,2021-04-03,Michigan,26.1
+Mason,2021-04-03,Michigan,21.4
+Mecosta,2021-04-03,Michigan,14.3
+Menominee,2021-04-03,Michigan,25.3
+Midland,2021-04-03,Michigan,20.2
+Missaukee,2021-04-03,Michigan,16.9
+Monroe,2021-04-03,Michigan,13.1
+Montcalm,2021-04-03,Michigan,13.4
+Montmorency,2021-04-03,Michigan,22.3
+Muskegon,2021-04-03,Michigan,19.1
+Newaygo,2021-04-03,Michigan,14.0
+Oakland,2021-04-03,Michigan,18.5
+Oceana,2021-04-03,Michigan,16.5
+Ogemaw,2021-04-03,Michigan,17.9
+Ontonagon,2021-04-03,Michigan,32.3
+Osceola,2021-04-03,Michigan,14.0
+Oscoda,2021-04-03,Michigan,16.5
+Otsego,2021-04-03,Michigan,21.0
+Ottawa,2021-04-03,Michigan,18.4
+Presque Isle,2021-04-03,Michigan,28.8
+Roscommon,2021-04-03,Michigan,22.7
+Saginaw,2021-04-03,Michigan,20.4
+Sanilac,2021-04-03,Michigan,16.0
+Schoolcraft,2021-04-03,Michigan,21.7
+Shiawassee,2021-04-03,Michigan,14.4
+St. Clair,2021-04-03,Michigan,14.1
+St. Joseph,2021-04-03,Michigan,14.3
+Tuscola,2021-04-03,Michigan,15.4
+Van Buren,2021-04-03,Michigan,16.4
+Washtenaw,2021-04-03,Michigan,21.2
+Wayne,2021-04-03,Michigan,14.8
+Wexford,2021-04-03,Michigan,16.5
+Aitkin,2021-04-03,Minnesota,29.3
+Anoka,2021-04-03,Minnesota,14.7
+Becker,2021-04-03,Minnesota,27.2
+Beltrami,2021-04-03,Minnesota,25.6
+Benton,2021-04-03,Minnesota,13.4
+Big Stone,2021-04-03,Minnesota,35.1
+Blue Earth,2021-04-03,Minnesota,20.6
+Brown,2021-04-03,Minnesota,26.0
+Carlton,2021-04-03,Minnesota,27.6
+Carver,2021-04-03,Minnesota,16.9
+Cass,2021-04-03,Minnesota,22.1
+Chippewa,2021-04-03,Minnesota,23.9
+Chisago,2021-04-03,Minnesota,17.1
+Clay,2021-04-03,Minnesota,15.5
+Clearwater,2021-04-03,Minnesota,21.8
+Cook,2021-04-03,Minnesota,42.9
+Cottonwood,2021-04-03,Minnesota,24.7
+Crow Wing,2021-04-03,Minnesota,22.9
+Dakota,2021-04-03,Minnesota,18.3
+Dodge,2021-04-03,Minnesota,22.5
+Douglas,2021-04-03,Minnesota,25.8
+Faribault,2021-04-03,Minnesota,22.1
+Fillmore,2021-04-03,Minnesota,27.4
+Freeborn,2021-04-03,Minnesota,20.9
+Goodhue,2021-04-03,Minnesota,23.1
+Grant,2021-04-03,Minnesota,26.5
+Hennepin,2021-04-03,Minnesota,19.3
+Houston,2021-04-03,Minnesota,17.7
+Hubbard,2021-04-03,Minnesota,20.1
+Isanti,2021-04-03,Minnesota,11.4
+Itasca,2021-04-03,Minnesota,23.9
+Jackson,2021-04-03,Minnesota,21.0
+Kanabec,2021-04-03,Minnesota,14.9
+Kandiyohi,2021-04-03,Minnesota,19.7
+Kittson,2021-04-03,Minnesota,25.4
+Koochiching,2021-04-03,Minnesota,24.3
+Lac qui Parle,2021-04-03,Minnesota,31.9
+Lake,2021-04-03,Minnesota,25.2
+Lake of the Woods,2021-04-03,Minnesota,27.7
+Le Sueur,2021-04-03,Minnesota,16.7
+Lincoln,2021-04-03,Minnesota,24.9
+Lyon,2021-04-03,Minnesota,22.2
+Mahnomen,2021-04-03,Minnesota,36.6
+Marshall,2021-04-03,Minnesota,19.0
+Martin,2021-04-03,Minnesota,25.0
+McLeod,2021-04-03,Minnesota,18.6
+Meeker,2021-04-03,Minnesota,18.1
+Mille Lacs,2021-04-03,Minnesota,20.6
+Morrison,2021-04-03,Minnesota,19.8
+Mower,2021-04-03,Minnesota,21.1
+Murray,2021-04-03,Minnesota,25.1
+Nicollet,2021-04-03,Minnesota,22.5
+Nobles,2021-04-03,Minnesota,27.5
+Norman,2021-04-03,Minnesota,29.3
+Olmsted,2021-04-03,Minnesota,31.2
+Otter Tail,2021-04-03,Minnesota,21.6
+Pennington,2021-04-03,Minnesota,18.7
+Pine,2021-04-03,Minnesota,16.9
+Pipestone,2021-04-03,Minnesota,24.0
+Polk,2021-04-03,Minnesota,18.8
+Pope,2021-04-03,Minnesota,26.2
+Ramsey,2021-04-03,Minnesota,18.6
+Red Lake,2021-04-03,Minnesota,22.6
+Redwood,2021-04-03,Minnesota,22.1
+Renville,2021-04-03,Minnesota,23.3
+Rice,2021-04-03,Minnesota,20.9
+Rock,2021-04-03,Minnesota,21.6
+Roseau,2021-04-03,Minnesota,18.5
+Scott,2021-04-03,Minnesota,16.5
+Sherburne,2021-04-03,Minnesota,12.1
+Sibley,2021-04-03,Minnesota,17.2
+St. Louis,2021-04-03,Minnesota,26.2
+Stearns,2021-04-03,Minnesota,19.4
+Steele,2021-04-03,Minnesota,17.7
+Stevens,2021-04-03,Minnesota,21.5
+Swift,2021-04-03,Minnesota,25.7
+Todd,2021-04-03,Minnesota,17.3
+Traverse,2021-04-03,Minnesota,30.6
+Wabasha,2021-04-03,Minnesota,29.4
+Wadena,2021-04-03,Minnesota,21.2
+Waseca,2021-04-03,Minnesota,19.6
+Washington,2021-04-03,Minnesota,19.2
+Watonwan,2021-04-03,Minnesota,19.8
+Wilkin,2021-04-03,Minnesota,15.4
+Winona,2021-04-03,Minnesota,23.4
+Wright,2021-04-03,Minnesota,14.3
+Yellow Medicine,2021-04-03,Minnesota,28.1
+Adams,2021-04-03,Mississippi,17.6
+Alcorn,2021-04-03,Mississippi,14.3
+Amite,2021-04-03,Mississippi,12.7
+Attala,2021-04-03,Mississippi,17.0
+Benton,2021-04-03,Mississippi,13.0
+Bolivar,2021-04-03,Mississippi,18.4
+Calhoun,2021-04-03,Mississippi,12.8
+Carroll,2021-04-03,Mississippi,12.5
+Chickasaw,2021-04-03,Mississippi,14.2
+Choctaw,2021-04-03,Mississippi,11.3
+Claiborne,2021-04-03,Mississippi,14.6
+Clarke,2021-04-03,Mississippi,17.6
+Clay,2021-04-03,Mississippi,15.7
+Coahoma,2021-04-03,Mississippi,13.6
+Copiah,2021-04-03,Mississippi,15.3
+Covington,2021-04-03,Mississippi,16.6
+DeSoto,2021-04-03,Mississippi,13.6
+Forrest,2021-04-03,Mississippi,13.9
+Franklin,2021-04-03,Mississippi,14.5
+George,2021-04-03,Mississippi,14.5
+Greene,2021-04-03,Mississippi,10.3
+Grenada,2021-04-03,Mississippi,16.3
+Hancock,2021-04-03,Mississippi,14.5
+Harrison,2021-04-03,Mississippi,17.7
+Hinds,2021-04-03,Mississippi,19.6
+Holmes,2021-04-03,Mississippi,15.9
+Humphreys,2021-04-03,Mississippi,13.0
+Issaquena,2021-04-03,Mississippi,7.2
+Itawamba,2021-04-03,Mississippi,13.5
+Jackson,2021-04-03,Mississippi,14.8
+Jasper,2021-04-03,Mississippi,16.5
+Jefferson,2021-04-03,Mississippi,19.9
+Jefferson Davis,2021-04-03,Mississippi,15.4
+Jones,2021-04-03,Mississippi,15.4
+Kemper,2021-04-03,Mississippi,13.4
+Lafayette,2021-04-03,Mississippi,20.9
+Lamar,2021-04-03,Mississippi,22.0
+Lauderdale,2021-04-03,Mississippi,17.6
+Lawrence,2021-04-03,Mississippi,21.9
+Leake,2021-04-03,Mississippi,14.7
+Lee,2021-04-03,Mississippi,14.7
+Leflore,2021-04-03,Mississippi,16.6
+Lincoln,2021-04-03,Mississippi,14.1
+Lowndes,2021-04-03,Mississippi,17.9
+Madison,2021-04-03,Mississippi,24.8
+Marion,2021-04-03,Mississippi,14.0
+Marshall,2021-04-03,Mississippi,12.5
+Monroe,2021-04-03,Mississippi,16.3
+Montgomery,2021-04-03,Mississippi,16.3
+Neshoba,2021-04-03,Mississippi,12.8
+Newton,2021-04-03,Mississippi,16.4
+Noxubee,2021-04-03,Mississippi,18.6
+Oktibbeha,2021-04-03,Mississippi,15.2
+Panola,2021-04-03,Mississippi,14.3
+Pearl River,2021-04-03,Mississippi,14.3
+Perry,2021-04-03,Mississippi,14.4
+Pike,2021-04-03,Mississippi,14.5
+Pontotoc,2021-04-03,Mississippi,14.6
+Prentiss,2021-04-03,Mississippi,14.2
+Quitman,2021-04-03,Mississippi,12.0
+Rankin,2021-04-03,Mississippi,18.3
+Scott,2021-04-03,Mississippi,16.5
+Sharkey,2021-04-03,Mississippi,15.8
+Simpson,2021-04-03,Mississippi,15.2
+Smith,2021-04-03,Mississippi,11.6
+Stone,2021-04-03,Mississippi,16.7
+Sunflower,2021-04-03,Mississippi,12.5
+Tallahatchie,2021-04-03,Mississippi,10.9
+Tate,2021-04-03,Mississippi,12.2
+Tippah,2021-04-03,Mississippi,12.4
+Tishomingo,2021-04-03,Mississippi,14.1
+Tunica,2021-04-03,Mississippi,12.6
+Union,2021-04-03,Mississippi,12.1
+Walthall,2021-04-03,Mississippi,12.4
+Warren,2021-04-03,Mississippi,16.4
+Washington,2021-04-03,Mississippi,13.8
+Wayne,2021-04-03,Mississippi,12.3
+Webster,2021-04-03,Mississippi,17.1
+Wilkinson,2021-04-03,Mississippi,20.5
+Winston,2021-04-03,Mississippi,15.2
+Yalobusha,2021-04-03,Mississippi,19.4
+Yazoo,2021-04-03,Mississippi,13.4
+Adair,2021-04-03,Missouri,20.0
+Andrew,2021-04-03,Missouri,14.4
+Atchison,2021-04-03,Missouri,28.6
+Audrain,2021-04-03,Missouri,14.8
+Barry,2021-04-03,Missouri,13.1
+Barton,2021-04-03,Missouri,10.6
+Bates,2021-04-03,Missouri,15.2
+Benton,2021-04-03,Missouri,22.3
+Bollinger,2021-04-03,Missouri,14.0
+Boone,2021-04-03,Missouri,21.1
+Buchanan,2021-04-03,Missouri,12.9
+Butler,2021-04-03,Missouri,12.1
+Caldwell,2021-04-03,Missouri,15.3
+Callaway,2021-04-03,Missouri,16.8
+Camden,2021-04-03,Missouri,17.1
+Cape Girardeau,2021-04-03,Missouri,18.9
+Carroll,2021-04-03,Missouri,23.0
+Carter,2021-04-03,Missouri,13.6
+Cass,2021-04-03,Missouri,16.3
+Cedar,2021-04-03,Missouri,11.4
+Chariton,2021-04-03,Missouri,17.6
+Christian,2021-04-03,Missouri,13.5
+Clark,2021-04-03,Missouri,11.8
+Clay,2021-04-03,Missouri,17.2
+Clinton,2021-04-03,Missouri,14.8
+Cole,2021-04-03,Missouri,20.5
+Cooper,2021-04-03,Missouri,18.8
+Crawford,2021-04-03,Missouri,11.2
+Dade,2021-04-03,Missouri,15.8
+Dallas,2021-04-03,Missouri,10.1
+Daviess,2021-04-03,Missouri,14.0
+DeKalb,2021-04-03,Missouri,9.5
+Dent,2021-04-03,Missouri,12.0
+Douglas,2021-04-03,Missouri,7.5
+Dunklin,2021-04-03,Missouri,11.4
+Franklin,2021-04-03,Missouri,14.6
+Gasconade,2021-04-03,Missouri,21.2
+Gentry,2021-04-03,Missouri,21.4
+Greene,2021-04-03,Missouri,15.5
+Grundy,2021-04-03,Missouri,16.4
+Harrison,2021-04-03,Missouri,18.2
+Henry,2021-04-03,Missouri,18.4
+Hickory,2021-04-03,Missouri,15.7
+Holt,2021-04-03,Missouri,23.1
+Howard,2021-04-03,Missouri,19.5
+Howell,2021-04-03,Missouri,9.8
+Iron,2021-04-03,Missouri,13.0
+Jackson,2021-04-03,Missouri,16.9
+Jasper,2021-04-03,Missouri,14.8
+Jefferson,2021-04-03,Missouri,11.5
+Johnson,2021-04-03,Missouri,13.5
+Knox,2021-04-03,Missouri,20.7
+Laclede,2021-04-03,Missouri,12.7
+Lafayette,2021-04-03,Missouri,15.8
+Lawrence,2021-04-03,Missouri,9.5
+Lewis,2021-04-03,Missouri,16.3
+Lincoln,2021-04-03,Missouri,9.5
+Linn,2021-04-03,Missouri,20.0
+Livingston,2021-04-03,Missouri,20.2
+Macon,2021-04-03,Missouri,18.0
+Madison,2021-04-03,Missouri,12.1
+Maries,2021-04-03,Missouri,14.1
+Marion,2021-04-03,Missouri,16.4
+McDonald,2021-04-03,Missouri,9.4
+Mercer,2021-04-03,Missouri,16.3
+Miller,2021-04-03,Missouri,11.9
+Mississippi,2021-04-03,Missouri,16.8
+Moniteau,2021-04-03,Missouri,14.3
+Monroe,2021-04-03,Missouri,19.3
+Montgomery,2021-04-03,Missouri,18.0
+Morgan,2021-04-03,Missouri,16.8
+New Madrid,2021-04-03,Missouri,12.7
+Newton,2021-04-03,Missouri,8.0
+Nodaway,2021-04-03,Missouri,18.0
+Oregon,2021-04-03,Missouri,10.5
+Osage,2021-04-03,Missouri,14.9
+Ozark,2021-04-03,Missouri,9.4
+Pemiscot,2021-04-03,Missouri,10.0
+Perry,2021-04-03,Missouri,14.4
+Pettis,2021-04-03,Missouri,16.8
+Phelps,2021-04-03,Missouri,15.2
+Pike,2021-04-03,Missouri,14.4
+Platte,2021-04-03,Missouri,17.1
+Polk,2021-04-03,Missouri,11.4
+Pulaski,2021-04-03,Missouri,16.8
+Putnam,2021-04-03,Missouri,14.9
+Ralls,2021-04-03,Missouri,11.5
+Randolph,2021-04-03,Missouri,10.9
+Ray,2021-04-03,Missouri,13.3
+Reynolds,2021-04-03,Missouri,8.9
+Ripley,2021-04-03,Missouri,11.4
+Saline,2021-04-03,Missouri,20.1
+Schuyler,2021-04-03,Missouri,13.0
+Scotland,2021-04-03,Missouri,15.6
+Scott,2021-04-03,Missouri,19.0
+Shannon,2021-04-03,Missouri,8.1
+Shelby,2021-04-03,Missouri,22.5
+St. Charles,2021-04-03,Missouri,15.1
+St. Clair,2021-04-03,Missouri,12.0
+St. Francois,2021-04-03,Missouri,14.1
+St. Louis,2021-04-03,Missouri,17.4
+St. Louis,2021-04-03,Missouri,13.3
+Ste. Genevieve,2021-04-03,Missouri,16.0
+Stoddard,2021-04-03,Missouri,13.7
+Stone,2021-04-03,Missouri,14.0
+Sullivan,2021-04-03,Missouri,17.0
+Taney,2021-04-03,Missouri,9.7
+Texas,2021-04-03,Missouri,10.1
+Vernon,2021-04-03,Missouri,15.6
+Warren,2021-04-03,Missouri,11.2
+Washington,2021-04-03,Missouri,8.4
+Wayne,2021-04-03,Missouri,14.3
+Webster,2021-04-03,Missouri,12.9
+Worth,2021-04-03,Missouri,22.6
+Wright,2021-04-03,Missouri,11.0
+Beaverhead,2021-04-03,Montana,21.3
+Big Horn,2021-04-03,Montana,34.2
+Blaine,2021-04-03,Montana,43.3
+Broadwater,2021-04-03,Montana,14.8
+Carbon,2021-04-03,Montana,19.2
+Carter,2021-04-03,Montana,16.5
+Cascade,2021-04-03,Montana,20.7
+Chouteau,2021-04-03,Montana,17.1
+Custer,2021-04-03,Montana,18.1
+Daniels,2021-04-03,Montana,22.7
+Dawson,2021-04-03,Montana,19.3
+Deer Lodge,2021-04-03,Montana,27.8
+Fallon,2021-04-03,Montana,18.2
+Fergus,2021-04-03,Montana,17.8
+Flathead,2021-04-03,Montana,13.9
+Gallatin,2021-04-03,Montana,15.2
+Garfield,2021-04-03,Montana,13.7
+Glacier,2021-04-03,Montana,43.9
+Golden Valley,2021-04-03,Montana,21.4
+Granite,2021-04-03,Montana,15.3
+Hill,2021-04-03,Montana,25.3
+Jefferson,2021-04-03,Montana,18.2
+Judith Basin,2021-04-03,Montana,14.6
+Lake,2021-04-03,Montana,27.7
+Lewis and Clark,2021-04-03,Montana,23.1
+Liberty,2021-04-03,Montana,19.1
+Lincoln,2021-04-03,Montana,16.4
+Madison,2021-04-03,Montana,18.1
+McCone,2021-04-03,Montana,7.0
+Meagher,2021-04-03,Montana,26.1
+Mineral,2021-04-03,Montana,19.4
+Missoula,2021-04-03,Montana,21.4
+Musselshell,2021-04-03,Montana,14.7
+Park,2021-04-03,Montana,17.8
+Petroleum,2021-04-03,Montana,18.5
+Phillips,2021-04-03,Montana,21.2
+Pondera,2021-04-03,Montana,23.8
+Powder River,2021-04-03,Montana,8.6
+Powell,2021-04-03,Montana,18.7
+Prairie,2021-04-03,Montana,19.2
+Ravalli,2021-04-03,Montana,18.4
+Richland,2021-04-03,Montana,15.4
+Roosevelt,2021-04-03,Montana,20.2
+Rosebud,2021-04-03,Montana,38.5
+Sanders,2021-04-03,Montana,14.1
+Sheridan,2021-04-03,Montana,24.6
+Silver Bow,2021-04-03,Montana,27.0
+Stillwater,2021-04-03,Montana,19.2
+Sweet Grass,2021-04-03,Montana,15.9
+Teton,2021-04-03,Montana,15.1
+Toole,2021-04-03,Montana,18.6
+Treasure,2021-04-03,Montana,28.9
+Valley,2021-04-03,Montana,19.8
+Wheatland,2021-04-03,Montana,16.6
+Wibaux,2021-04-03,Montana,15.7
+Yellowstone,2021-04-03,Montana,19.5
+Adams,2021-04-03,Nebraska,10.8
+Antelope,2021-04-03,Nebraska,14.4
+Arthur,2021-04-03,Nebraska,4.5
+Banner,2021-04-03,Nebraska,7.7
+Blaine,2021-04-03,Nebraska,9.2
+Boone,2021-04-03,Nebraska,21.1
+Box Butte,2021-04-03,Nebraska,9.0
+Boyd,2021-04-03,Nebraska,13.0
+Brown,2021-04-03,Nebraska,14.8
+Buffalo,2021-04-03,Nebraska,10.6
+Burt,2021-04-03,Nebraska,25.2
+Butler,2021-04-03,Nebraska,16.8
+Cass,2021-04-03,Nebraska,16.3
+Cedar,2021-04-03,Nebraska,15.9
+Chase,2021-04-03,Nebraska,7.6
+Cherry,2021-04-03,Nebraska,16.6
+Cheyenne,2021-04-03,Nebraska,8.7
+Clay,2021-04-03,Nebraska,14.2
+Colfax,2021-04-03,Nebraska,9.7
+Cuming,2021-04-03,Nebraska,18.0
+Custer,2021-04-03,Nebraska,16.4
+Dakota,2021-04-03,Nebraska,15.8
+Dawes,2021-04-03,Nebraska,11.0
+Dawson,2021-04-03,Nebraska,13.0
+Deuel,2021-04-03,Nebraska,4.3
+Dixon,2021-04-03,Nebraska,15.6
+Dodge,2021-04-03,Nebraska,13.7
+Douglas,2021-04-03,Nebraska,18.6
+Dundy,2021-04-03,Nebraska,17.3
+Fillmore,2021-04-03,Nebraska,15.5
+Franklin,2021-04-03,Nebraska,19.5
+Frontier,2021-04-03,Nebraska,8.7
+Furnas,2021-04-03,Nebraska,17.4
+Gage,2021-04-03,Nebraska,12.1
+Garden,2021-04-03,Nebraska,21.9
+Garfield,2021-04-03,Nebraska,14.4
+Gosper,2021-04-03,Nebraska,14.4
+Grant,2021-04-03,Nebraska,3.0
+Greeley,2021-04-03,Nebraska,18.8
+Hall,2021-04-03,Nebraska,12.0
+Hamilton,2021-04-03,Nebraska,14.9
+Harlan,2021-04-03,Nebraska,20.9
+Hayes,2021-04-03,Nebraska,7.8
+Hitchcock,2021-04-03,Nebraska,13.5
+Holt,2021-04-03,Nebraska,13.3
+Hooker,2021-04-03,Nebraska,20.7
+Howard,2021-04-03,Nebraska,19.0
+Jefferson,2021-04-03,Nebraska,17.7
+Johnson,2021-04-03,Nebraska,14.9
+Kearney,2021-04-03,Nebraska,22.3
+Keith,2021-04-03,Nebraska,11.1
+Keya Paha,2021-04-03,Nebraska,12.4
+Kimball,2021-04-03,Nebraska,11.7
+Knox,2021-04-03,Nebraska,17.3
+Lancaster,2021-04-03,Nebraska,19.3
+Lincoln,2021-04-03,Nebraska,9.2
+Logan,2021-04-03,Nebraska,6.3
+Loup,2021-04-03,Nebraska,9.5
+Madison,2021-04-03,Nebraska,14.4
+McPherson,2021-04-03,Nebraska,4.3
+Merrick,2021-04-03,Nebraska,17.7
+Morrill,2021-04-03,Nebraska,15.6
+Nance,2021-04-03,Nebraska,8.2
+Nemaha,2021-04-03,Nebraska,19.6
+Nuckolls,2021-04-03,Nebraska,22.1
+Otoe,2021-04-03,Nebraska,17.6
+Pawnee,2021-04-03,Nebraska,18.3
+Perkins,2021-04-03,Nebraska,15.9
+Phelps,2021-04-03,Nebraska,14.3
+Pierce,2021-04-03,Nebraska,14.5
+Platte,2021-04-03,Nebraska,9.2
+Polk,2021-04-03,Nebraska,11.9
+Red Willow,2021-04-03,Nebraska,11.8
+Richardson,2021-04-03,Nebraska,20.2
+Rock,2021-04-03,Nebraska,10.4
+Saline,2021-04-03,Nebraska,12.4
+Sarpy,2021-04-03,Nebraska,14.2
+Saunders,2021-04-03,Nebraska,15.0
+Scotts Bluff,2021-04-03,Nebraska,10.9
+Seward,2021-04-03,Nebraska,13.9
+Sheridan,2021-04-03,Nebraska,11.5
+Sherman,2021-04-03,Nebraska,19.1
+Sioux,2021-04-03,Nebraska,9.8
+Stanton,2021-04-03,Nebraska,10.1
+Thayer,2021-04-03,Nebraska,13.5
+Thomas,2021-04-03,Nebraska,8.3
+Thurston,2021-04-03,Nebraska,29.8
+Valley,2021-04-03,Nebraska,14.8
+Washington,2021-04-03,Nebraska,19.1
+Wayne,2021-04-03,Nebraska,13.2
+Webster,2021-04-03,Nebraska,16.0
+Wheeler,2021-04-03,Nebraska,11.6
+York,2021-04-03,Nebraska,17.7
+Carson City,2021-04-03,Nevada,20.0
+Churchill,2021-04-03,Nevada,18.1
+Clark,2021-04-03,Nevada,16.3
+Douglas,2021-04-03,Nevada,19.7
+Elko,2021-04-03,Nevada,13.7
+Esmeralda,2021-04-03,Nevada,14.8
+Eureka,2021-04-03,Nevada,15.3
+Humboldt,2021-04-03,Nevada,13.4
+Lander,2021-04-03,Nevada,15.2
+Lincoln,2021-04-03,Nevada,18.7
+Lyon,2021-04-03,Nevada,11.1
+Mineral,2021-04-03,Nevada,27.1
+Nye,2021-04-03,Nevada,15.5
+Pershing,2021-04-03,Nevada,11.1
+Storey,2021-04-03,Nevada,7.1
+Washoe,2021-04-03,Nevada,19.3
+White Pine,2021-04-03,Nevada,25.6
+Belknap,2021-04-03,New Hampshire,16.1
+Carroll,2021-04-03,New Hampshire,22.0
+Cheshire,2021-04-03,New Hampshire,17.5
+Coos,2021-04-03,New Hampshire,24.3
+Grafton,2021-04-03,New Hampshire,22.7
+Hillsborough,2021-04-03,New Hampshire,11.4
+Merrimack,2021-04-03,New Hampshire,17.2
+Rockingham,2021-04-03,New Hampshire,15.7
+Strafford,2021-04-03,New Hampshire,13.2
+Sullivan,2021-04-03,New Hampshire,17.5
+Atlantic,2021-04-03,New Jersey,21.4
+Bergen,2021-04-03,New Jersey,23.1
+Burlington,2021-04-03,New Jersey,23.3
+Camden,2021-04-03,New Jersey,21.0
+Cape May,2021-04-03,New Jersey,30.4
+Cumberland,2021-04-03,New Jersey,13.2
+Essex,2021-04-03,New Jersey,15.6
+Gloucester,2021-04-03,New Jersey,21.6
+Hudson,2021-04-03,New Jersey,13.3
+Hunterdon,2021-04-03,New Jersey,18.1
+Mercer,2021-04-03,New Jersey,15.2
+Middlesex,2021-04-03,New Jersey,16.6
+Monmouth,2021-04-03,New Jersey,19.9
+Morris,2021-04-03,New Jersey,26.3
+Ocean,2021-04-03,New Jersey,17.6
+Passaic,2021-04-03,New Jersey,14.9
+Salem,2021-04-03,New Jersey,17.2
+Somerset,2021-04-03,New Jersey,19.8
+Sussex,2021-04-03,New Jersey,18.7
+Union,2021-04-03,New Jersey,15.2
+Warren,2021-04-03,New Jersey,18.7
+Bernalillo,2021-04-03,New Mexico,
+Catron,2021-04-03,New Mexico,
+Chaves,2021-04-03,New Mexico,
+Cibola,2021-04-03,New Mexico,
+Colfax,2021-04-03,New Mexico,
+Curry,2021-04-03,New Mexico,
+De Baca,2021-04-03,New Mexico,
+Doña Ana,2021-04-03,New Mexico,
+Eddy,2021-04-03,New Mexico,
+Grant,2021-04-03,New Mexico,
+Guadalupe,2021-04-03,New Mexico,
+Harding,2021-04-03,New Mexico,
+Hidalgo,2021-04-03,New Mexico,
+Lea,2021-04-03,New Mexico,
+Lincoln,2021-04-03,New Mexico,
+Los Alamos,2021-04-03,New Mexico,
+Luna,2021-04-03,New Mexico,
+McKinley,2021-04-03,New Mexico,
+Mora,2021-04-03,New Mexico,
+Otero,2021-04-03,New Mexico,
+Quay,2021-04-03,New Mexico,
+Rio Arriba,2021-04-03,New Mexico,
+Roosevelt,2021-04-03,New Mexico,
+San Juan,2021-04-03,New Mexico,
+San Miguel,2021-04-03,New Mexico,
+Sandoval,2021-04-03,New Mexico,
+Santa Fe,2021-04-03,New Mexico,
+Sierra,2021-04-03,New Mexico,
+Socorro,2021-04-03,New Mexico,
+Taos,2021-04-03,New Mexico,
+Torrance,2021-04-03,New Mexico,
+Union,2021-04-03,New Mexico,
+Valencia,2021-04-03,New Mexico,
+Albany,2021-04-03,New York,24.7
+Allegany,2021-04-03,New York,13.4
+Bronx,2021-04-03,New York,15.0
+Broome,2021-04-03,New York,21.7
+Cattaraugus,2021-04-03,New York,18.3
+Cayuga,2021-04-03,New York,21.1
+Chautauqua,2021-04-03,New York,18.2
+Chemung,2021-04-03,New York,20.7
+Chenango,2021-04-03,New York,17.7
+Clinton,2021-04-03,New York,30.8
+Columbia,2021-04-03,New York,21.0
+Cortland,2021-04-03,New York,18.8
+Delaware,2021-04-03,New York,14.8
+Dutchess,2021-04-03,New York,17.9
+Erie,2021-04-03,New York,20.3
+Essex,2021-04-03,New York,30.2
+Franklin,2021-04-03,New York,27.4
+Fulton,2021-04-03,New York,16.9
+Genesee,2021-04-03,New York,18.1
+Greene,2021-04-03,New York,16.0
+Hamilton,2021-04-03,New York,48.7
+Herkimer,2021-04-03,New York,22.2
+Jefferson,2021-04-03,New York,25.8
+Kings,2021-04-03,New York,14.0
+Lewis,2021-04-03,New York,18.9
+Livingston,2021-04-03,New York,17.8
+Madison,2021-04-03,New York,20.2
+Monroe,2021-04-03,New York,21.2
+Montgomery,2021-04-03,New York,19.9
+Nassau,2021-04-03,New York,23.9
+New York,2021-04-03,New York,23.8
+Niagara,2021-04-03,New York,18.6
+Oneida,2021-04-03,New York,23.7
+Onondaga,2021-04-03,New York,26.2
+Ontario,2021-04-03,New York,22.7
+Orange,2021-04-03,New York,16.2
+Orleans,2021-04-03,New York,15.0
+Oswego,2021-04-03,New York,18.8
+Otsego,2021-04-03,New York,19.5
+Putnam,2021-04-03,New York,21.2
+Queens,2021-04-03,New York,17.8
+Rensselaer,2021-04-03,New York,21.3
+Richmond,2021-04-03,New York,19.6
+Rockland,2021-04-03,New York,18.1
+Saratoga,2021-04-03,New York,25.1
+Schenectady,2021-04-03,New York,21.3
+Schoharie,2021-04-03,New York,15.2
+Schuyler,2021-04-03,New York,24.3
+Seneca,2021-04-03,New York,19.6
+St. Lawrence,2021-04-03,New York,27.5
+Steuben,2021-04-03,New York,18.1
+Suffolk,2021-04-03,New York,18.3
+Sullivan,2021-04-03,New York,15.3
+Tioga,2021-04-03,New York,19.3
+Tompkins,2021-04-03,New York,22.5
+Ulster,2021-04-03,New York,18.1
+Warren,2021-04-03,New York,26.9
+Washington,2021-04-03,New York,18.7
+Wayne,2021-04-03,New York,18.2
+Westchester,2021-04-03,New York,22.4
+Wyoming,2021-04-03,New York,16.2
+Yates,2021-04-03,New York,21.7
+Alamance,2021-04-03,North Carolina,17.6
+Alexander,2021-04-03,North Carolina,15.7
+Alleghany,2021-04-03,North Carolina,23.5
+Anson,2021-04-03,North Carolina,10.0
+Ashe,2021-04-03,North Carolina,19.2
+Avery,2021-04-03,North Carolina,20.6
+Beaufort,2021-04-03,North Carolina,24.3
+Bertie,2021-04-03,North Carolina,18.7
+Bladen,2021-04-03,North Carolina,14.7
+Brunswick,2021-04-03,North Carolina,25.6
+Buncombe,2021-04-03,North Carolina,20.3
+Burke,2021-04-03,North Carolina,18.6
+Cabarrus,2021-04-03,North Carolina,13.1
+Caldwell,2021-04-03,North Carolina,17.2
+Camden,2021-04-03,North Carolina,18.3
+Carteret,2021-04-03,North Carolina,18.1
+Caswell,2021-04-03,North Carolina,19.1
+Catawba,2021-04-03,North Carolina,17.2
+Chatham,2021-04-03,North Carolina,22.4
+Cherokee,2021-04-03,North Carolina,17.8
+Chowan,2021-04-03,North Carolina,21.7
+Clay,2021-04-03,North Carolina,14.2
+Cleveland,2021-04-03,North Carolina,16.3
+Columbus,2021-04-03,North Carolina,14.9
+Craven,2021-04-03,North Carolina,21.6
+Cumberland,2021-04-03,North Carolina,22.3
+Currituck,2021-04-03,North Carolina,16.7
+Dare,2021-04-03,North Carolina,31.0
+Davidson,2021-04-03,North Carolina,14.5
+Davie,2021-04-03,North Carolina,21.3
+Duplin,2021-04-03,North Carolina,12.1
+Durham,2021-04-03,North Carolina,22.4
+Edgecombe,2021-04-03,North Carolina,14.3
+Forsyth,2021-04-03,North Carolina,18.9
+Franklin,2021-04-03,North Carolina,14.1
+Gaston,2021-04-03,North Carolina,15.3
+Gates,2021-04-03,North Carolina,16.1
+Graham,2021-04-03,North Carolina,21.3
+Granville,2021-04-03,North Carolina,22.5
+Greene,2021-04-03,North Carolina,15.2
+Guilford,2021-04-03,North Carolina,16.5
+Halifax,2021-04-03,North Carolina,17.5
+Harnett,2021-04-03,North Carolina,12.8
+Haywood,2021-04-03,North Carolina,21.2
+Henderson,2021-04-03,North Carolina,19.7
+Hertford,2021-04-03,North Carolina,10.7
+Hoke,2021-04-03,North Carolina,9.9
+Hyde,2021-04-03,North Carolina,28.1
+Iredell,2021-04-03,North Carolina,16.0
+Jackson,2021-04-03,North Carolina,19.8
+Johnston,2021-04-03,North Carolina,14.1
+Jones,2021-04-03,North Carolina,20.3
+Lee,2021-04-03,North Carolina,17.0
+Lenoir,2021-04-03,North Carolina,18.6
+Lincoln,2021-04-03,North Carolina,15.2
+Macon,2021-04-03,North Carolina,15.3
+Madison,2021-04-03,North Carolina,19.7
+Martin,2021-04-03,North Carolina,35.9
+McDowell,2021-04-03,North Carolina,19.6
+Mecklenburg,2021-04-03,North Carolina,13.6
+Mitchell,2021-04-03,North Carolina,15.2
+Montgomery,2021-04-03,North Carolina,14.7
+Moore,2021-04-03,North Carolina,24.5
+Nash,2021-04-03,North Carolina,16.4
+New Hanover,2021-04-03,North Carolina,20.5
+Northampton,2021-04-03,North Carolina,19.0
+Onslow,2021-04-03,North Carolina,17.4
+Orange,2021-04-03,North Carolina,25.6
+Pamlico,2021-04-03,North Carolina,27.0
+Pasquotank,2021-04-03,North Carolina,19.9
+Pender,2021-04-03,North Carolina,15.6
+Perquimans,2021-04-03,North Carolina,12.6
+Person,2021-04-03,North Carolina,18.9
+Pitt,2021-04-03,North Carolina,21.4
+Polk,2021-04-03,North Carolina,17.3
+Randolph,2021-04-03,North Carolina,13.2
+Richmond,2021-04-03,North Carolina,17.9
+Robeson,2021-04-03,North Carolina,11.6
+Rockingham,2021-04-03,North Carolina,14.9
+Rowan,2021-04-03,North Carolina,14.2
+Rutherford,2021-04-03,North Carolina,13.1
+Sampson,2021-04-03,North Carolina,15.9
+Scotland,2021-04-03,North Carolina,15.9
+Stanly,2021-04-03,North Carolina,9.4
+Stokes,2021-04-03,North Carolina,13.2
+Surry,2021-04-03,North Carolina,18.3
+Swain,2021-04-03,North Carolina,22.5
+Transylvania,2021-04-03,North Carolina,22.4
+Tyrrell,2021-04-03,North Carolina,19.4
+Union,2021-04-03,North Carolina,14.6
+Vance,2021-04-03,North Carolina,15.7
+Wake,2021-04-03,North Carolina,18.1
+Warren,2021-04-03,North Carolina,12.8
+Washington,2021-04-03,North Carolina,18.0
+Watauga,2021-04-03,North Carolina,21.7
+Wayne,2021-04-03,North Carolina,15.9
+Wilkes,2021-04-03,North Carolina,15.1
+Wilson,2021-04-03,North Carolina,16.9
+Yadkin,2021-04-03,North Carolina,17.3
+Yancey,2021-04-03,North Carolina,17.9
+Adams,2021-04-03,North Dakota,30.2
+Barnes,2021-04-03,North Dakota,28.5
+Benson,2021-04-03,North Dakota,18.1
+Billings,2021-04-03,North Dakota,8.1
+Bottineau,2021-04-03,North Dakota,30.7
+Bowman,2021-04-03,North Dakota,18.9
+Burke,2021-04-03,North Dakota,19.0
+Burleigh,2021-04-03,North Dakota,20.2
+Cass,2021-04-03,North Dakota,24.6
+Cavalier,2021-04-03,North Dakota,35.0
+Dickey,2021-04-03,North Dakota,24.9
+Divide,2021-04-03,North Dakota,22.1
+Dunn,2021-04-03,North Dakota,10.0
+Eddy,2021-04-03,North Dakota,32.7
+Emmons,2021-04-03,North Dakota,18.5
+Foster,2021-04-03,North Dakota,25.2
+Golden Valley,2021-04-03,North Dakota,15.6
+Grand Forks,2021-04-03,North Dakota,23.1
+Grant,2021-04-03,North Dakota,9.3
+Griggs,2021-04-03,North Dakota,31.7
+Hettinger,2021-04-03,North Dakota,19.8
+Kidder,2021-04-03,North Dakota,15.4
+LaMoure,2021-04-03,North Dakota,24.4
+Logan,2021-04-03,North Dakota,17.9
+McHenry,2021-04-03,North Dakota,20.4
+McIntosh,2021-04-03,North Dakota,23.5
+McKenzie,2021-04-03,North Dakota,8.1
+McLean,2021-04-03,North Dakota,22.9
+Mercer,2021-04-03,North Dakota,17.1
+Morton,2021-04-03,North Dakota,17.8
+Mountrail,2021-04-03,North Dakota,18.1
+Nelson,2021-04-03,North Dakota,43.3
+Oliver,2021-04-03,North Dakota,12.3
+Pembina,2021-04-03,North Dakota,27.4
+Pierce,2021-04-03,North Dakota,27.0
+Ramsey,2021-04-03,North Dakota,32.9
+Ransom,2021-04-03,North Dakota,30.2
+Renville,2021-04-03,North Dakota,18.4
+Richland,2021-04-03,North Dakota,22.3
+Rolette,2021-04-03,North Dakota,35.1
+Sargent,2021-04-03,North Dakota,26.8
+Sheridan,2021-04-03,North Dakota,22.9
+Sioux,2021-04-03,North Dakota,15.4
+Slope,2021-04-03,North Dakota,6.4
+Stark,2021-04-03,North Dakota,14.5
+Steele,2021-04-03,North Dakota,26.6
+Stutsman,2021-04-03,North Dakota,26.2
+Towner,2021-04-03,North Dakota,28.0
+Traill,2021-04-03,North Dakota,21.4
+Walsh,2021-04-03,North Dakota,24.3
+Ward,2021-04-03,North Dakota,19.8
+Wells,2021-04-03,North Dakota,22.3
+Williams,2021-04-03,North Dakota,9.8
+Adams,2021-04-03,Ohio,12.5
+Allen,2021-04-03,Ohio,18.1
+Ashland,2021-04-03,Ohio,13.7
+Ashtabula,2021-04-03,Ohio,17.2
+Athens,2021-04-03,Ohio,17.5
+Auglaize,2021-04-03,Ohio,17.3
+Belmont,2021-04-03,Ohio,15.9
+Brown,2021-04-03,Ohio,13.4
+Butler,2021-04-03,Ohio,14.8
+Carroll,2021-04-03,Ohio,17.5
+Champaign,2021-04-03,Ohio,15.9
+Clark,2021-04-03,Ohio,21.6
+Clermont,2021-04-03,Ohio,17.3
+Clinton,2021-04-03,Ohio,17.3
+Columbiana,2021-04-03,Ohio,18.8
+Coshocton,2021-04-03,Ohio,17.4
+Crawford,2021-04-03,Ohio,19.5
+Cuyahoga,2021-04-03,Ohio,17.7
+Darke,2021-04-03,Ohio,14.6
+Defiance,2021-04-03,Ohio,20.1
+Delaware,2021-04-03,Ohio,21.0
+Erie,2021-04-03,Ohio,21.4
+Fairfield,2021-04-03,Ohio,17.0
+Fayette,2021-04-03,Ohio,17.2
+Franklin,2021-04-03,Ohio,16.6
+Fulton,2021-04-03,Ohio,20.3
+Gallia,2021-04-03,Ohio,19.4
+Geauga,2021-04-03,Ohio,19.9
+Greene,2021-04-03,Ohio,22.5
+Guernsey,2021-04-03,Ohio,19.6
+Hamilton,2021-04-03,Ohio,19.0
+Hancock,2021-04-03,Ohio,17.8
+Hardin,2021-04-03,Ohio,16.1
+Harrison,2021-04-03,Ohio,16.5
+Henry,2021-04-03,Ohio,23.3
+Highland,2021-04-03,Ohio,14.1
+Hocking,2021-04-03,Ohio,19.3
+Holmes,2021-04-03,Ohio,8.4
+Huron,2021-04-03,Ohio,15.0
+Jackson,2021-04-03,Ohio,16.5
+Jefferson,2021-04-03,Ohio,19.5
+Knox,2021-04-03,Ohio,16.8
+Lake,2021-04-03,Ohio,18.9
+Lawrence,2021-04-03,Ohio,17.1
+Licking,2021-04-03,Ohio,18.2
+Logan,2021-04-03,Ohio,14.4
+Lorain,2021-04-03,Ohio,17.7
+Lucas,2021-04-03,Ohio,19.3
+Madison,2021-04-03,Ohio,16.9
+Mahoning,2021-04-03,Ohio,20.9
+Marion,2021-04-03,Ohio,18.2
+Medina,2021-04-03,Ohio,18.0
+Meigs,2021-04-03,Ohio,18.8
+Mercer,2021-04-03,Ohio,16.3
+Miami,2021-04-03,Ohio,17.1
+Monroe,2021-04-03,Ohio,19.9
+Montgomery,2021-04-03,Ohio,18.1
+Morgan,2021-04-03,Ohio,18.5
+Morrow,2021-04-03,Ohio,14.9
+Muskingum,2021-04-03,Ohio,20.8
+Noble,2021-04-03,Ohio,19.4
+Ottawa,2021-04-03,Ohio,22.7
+Paulding,2021-04-03,Ohio,18.2
+Perry,2021-04-03,Ohio,15.9
+Pickaway,2021-04-03,Ohio,16.3
+Pike,2021-04-03,Ohio,18.2
+Portage,2021-04-03,Ohio,15.1
+Preble,2021-04-03,Ohio,15.7
+Putnam,2021-04-03,Ohio,22.8
+Richland,2021-04-03,Ohio,16.4
+Ross,2021-04-03,Ohio,19.4
+Sandusky,2021-04-03,Ohio,19.6
+Scioto,2021-04-03,Ohio,20.7
+Seneca,2021-04-03,Ohio,17.5
+Shelby,2021-04-03,Ohio,14.7
+Stark,2021-04-03,Ohio,16.6
+Summit,2021-04-03,Ohio,16.5
+Trumbull,2021-04-03,Ohio,19.6
+Tuscarawas,2021-04-03,Ohio,16.2
+Union,2021-04-03,Ohio,17.8
+Van Wert,2021-04-03,Ohio,8.3
+Vinton,2021-04-03,Ohio,16.3
+Warren,2021-04-03,Ohio,18.4
+Washington,2021-04-03,Ohio,17.9
+Wayne,2021-04-03,Ohio,14.3
+Williams,2021-04-03,Ohio,19.7
+Wood,2021-04-03,Ohio,21.0
+Wyandot,2021-04-03,Ohio,17.1
+Adair,2021-04-03,Oklahoma,12.4
+Alfalfa,2021-04-03,Oklahoma,26.5
+Atoka,2021-04-03,Oklahoma,16.0
+Beaver,2021-04-03,Oklahoma,13.8
+Beckham,2021-04-03,Oklahoma,17.8
+Blaine,2021-04-03,Oklahoma,18.7
+Bryan,2021-04-03,Oklahoma,16.6
+Caddo,2021-04-03,Oklahoma,24.7
+Canadian,2021-04-03,Oklahoma,18.7
+Carter,2021-04-03,Oklahoma,17.2
+Cherokee,2021-04-03,Oklahoma,18.4
+Choctaw,2021-04-03,Oklahoma,13.2
+Cimarron,2021-04-03,Oklahoma,15.0
+Cleveland,2021-04-03,Oklahoma,18.3
+Coal,2021-04-03,Oklahoma,19.1
+Comanche,2021-04-03,Oklahoma,18.3
+Cotton,2021-04-03,Oklahoma,18.0
+Craig,2021-04-03,Oklahoma,25.0
+Creek,2021-04-03,Oklahoma,15.0
+Custer,2021-04-03,Oklahoma,20.5
+Delaware,2021-04-03,Oklahoma,15.2
+Dewey,2021-04-03,Oklahoma,13.5
+Ellis,2021-04-03,Oklahoma,17.2
+Garfield,2021-04-03,Oklahoma,16.3
+Garvin,2021-04-03,Oklahoma,20.3
+Grady,2021-04-03,Oklahoma,13.2
+Grant,2021-04-03,Oklahoma,18.7
+Greer,2021-04-03,Oklahoma,18.6
+Harmon,2021-04-03,Oklahoma,23.3
+Harper,2021-04-03,Oklahoma,23.9
+Haskell,2021-04-03,Oklahoma,18.2
+Hughes,2021-04-03,Oklahoma,16.1
+Jackson,2021-04-03,Oklahoma,21.5
+Jefferson,2021-04-03,Oklahoma,21.5
+Johnston,2021-04-03,Oklahoma,17.5
+Kay,2021-04-03,Oklahoma,18.9
+Kingfisher,2021-04-03,Oklahoma,16.3
+Kiowa,2021-04-03,Oklahoma,26.9
+Latimer,2021-04-03,Oklahoma,16.3
+Le Flore,2021-04-03,Oklahoma,15.5
+Lincoln,2021-04-03,Oklahoma,16.2
+Logan,2021-04-03,Oklahoma,11.3
+Love,2021-04-03,Oklahoma,20.6
+Major,2021-04-03,Oklahoma,21.8
+Marshall,2021-04-03,Oklahoma,18.5
+Mayes,2021-04-03,Oklahoma,17.0
+McClain,2021-04-03,Oklahoma,20.1
+McCurtain,2021-04-03,Oklahoma,12.8
+McIntosh,2021-04-03,Oklahoma,27.7
+Murray,2021-04-03,Oklahoma,20.5
+Muskogee,2021-04-03,Oklahoma,18.4
+Noble,2021-04-03,Oklahoma,21.1
+Nowata,2021-04-03,Oklahoma,13.4
+Okfuskee,2021-04-03,Oklahoma,22.2
+Oklahoma,2021-04-03,Oklahoma,20.2
+Okmulgee,2021-04-03,Oklahoma,18.3
+Osage,2021-04-03,Oklahoma,11.6
+Ottawa,2021-04-03,Oklahoma,13.2
+Pawnee,2021-04-03,Oklahoma,17.1
+Payne,2021-04-03,Oklahoma,15.5
+Pittsburg,2021-04-03,Oklahoma,19.5
+Pontotoc,2021-04-03,Oklahoma,23.4
+Pottawatomie,2021-04-03,Oklahoma,19.5
+Pushmataha,2021-04-03,Oklahoma,15.8
+Roger Mills,2021-04-03,Oklahoma,18.6
+Rogers,2021-04-03,Oklahoma,16.9
+Seminole,2021-04-03,Oklahoma,18.0
+Sequoyah,2021-04-03,Oklahoma,14.8
+Stephens,2021-04-03,Oklahoma,20.7
+Texas,2021-04-03,Oklahoma,12.4
+Tillman,2021-04-03,Oklahoma,19.8
+Tulsa,2021-04-03,Oklahoma,20.3
+Wagoner,2021-04-03,Oklahoma,16.8
+Washington,2021-04-03,Oklahoma,15.8
+Washita,2021-04-03,Oklahoma,17.3
+Woods,2021-04-03,Oklahoma,18.7
+Woodward,2021-04-03,Oklahoma,16.5
+Baker,2021-04-03,Oregon,37.5
+Benton,2021-04-03,Oregon,21.1
+Clackamas,2021-04-03,Oregon,16.4
+Clatsop,2021-04-03,Oregon,15.1
+Columbia,2021-04-03,Oregon,13.9
+Coos,2021-04-03,Oregon,13.1
+Crook,2021-04-03,Oregon,15.3
+Curry,2021-04-03,Oregon,15.1
+Deschutes,2021-04-03,Oregon,21.4
+Douglas,2021-04-03,Oregon,16.4
+Gilliam,2021-04-03,Oregon,14.5
+Grant,2021-04-03,Oregon,11.9
+Harney,2021-04-03,Oregon,18.8
+Hood River,2021-04-03,Oregon,23.3
+Jackson,2021-04-03,Oregon,15.6
+Jefferson,2021-04-03,Oregon,21.7
+Josephine,2021-04-03,Oregon,13.6
+Klamath,2021-04-03,Oregon,19.5
+Lake,2021-04-03,Oregon,19.1
+Lane,2021-04-03,Oregon,18.7
+Lincoln,2021-04-03,Oregon,20.6
+Linn,2021-04-03,Oregon,16.4
+Malheur,2021-04-03,Oregon,15.9
+Marion,2021-04-03,Oregon,17.6
+Morrow,2021-04-03,Oregon,13.5
+Multnomah,2021-04-03,Oregon,19.8
+Polk,2021-04-03,Oregon,20.4
+Sherman,2021-04-03,Oregon,23.1
+Tillamook,2021-04-03,Oregon,15.7
+Umatilla,2021-04-03,Oregon,17.2
+Union,2021-04-03,Oregon,16.3
+Wallowa,2021-04-03,Oregon,21.0
+Wasco,2021-04-03,Oregon,19.8
+Washington,2021-04-03,Oregon,15.8
+Wheeler,2021-04-03,Oregon,34.8
+Yamhill,2021-04-03,Oregon,15.5
+Adams,2021-04-03,Pennsylvania,13.4
+Allegheny,2021-04-03,Pennsylvania,20.0
+Armstrong,2021-04-03,Pennsylvania,17.3
+Beaver,2021-04-03,Pennsylvania,12.2
+Bedford,2021-04-03,Pennsylvania,10.1
+Berks,2021-04-03,Pennsylvania,12.8
+Blair,2021-04-03,Pennsylvania,16.6
+Bradford,2021-04-03,Pennsylvania,14.8
+Bucks,2021-04-03,Pennsylvania,17.5
+Butler,2021-04-03,Pennsylvania,24.3
+Cambria,2021-04-03,Pennsylvania,19.1
+Cameron,2021-04-03,Pennsylvania,26.0
+Carbon,2021-04-03,Pennsylvania,16.9
+Centre,2021-04-03,Pennsylvania,17.7
+Chester,2021-04-03,Pennsylvania,17.6
+Clarion,2021-04-03,Pennsylvania,21.1
+Clearfield,2021-04-03,Pennsylvania,19.0
+Clinton,2021-04-03,Pennsylvania,15.0
+Columbia,2021-04-03,Pennsylvania,21.1
+Crawford,2021-04-03,Pennsylvania,21.6
+Cumberland,2021-04-03,Pennsylvania,15.1
+Dauphin,2021-04-03,Pennsylvania,12.3
+Delaware,2021-04-03,Pennsylvania,18.4
+Elk,2021-04-03,Pennsylvania,29.1
+Erie,2021-04-03,Pennsylvania,19.7
+Fayette,2021-04-03,Pennsylvania,19.4
+Forest,2021-04-03,Pennsylvania,19.4
+Franklin,2021-04-03,Pennsylvania,14.7
+Fulton,2021-04-03,Pennsylvania,9.2
+Greene,2021-04-03,Pennsylvania,14.0
+Huntingdon,2021-04-03,Pennsylvania,16.9
+Indiana,2021-04-03,Pennsylvania,14.4
+Jefferson,2021-04-03,Pennsylvania,24.6
+Juniata,2021-04-03,Pennsylvania,14.4
+Lackawanna,2021-04-03,Pennsylvania,23.9
+Lancaster,2021-04-03,Pennsylvania,14.5
+Lawrence,2021-04-03,Pennsylvania,16.8
+Lebanon,2021-04-03,Pennsylvania,15.3
+Lehigh,2021-04-03,Pennsylvania,18.9
+Luzerne,2021-04-03,Pennsylvania,20.2
+Lycoming,2021-04-03,Pennsylvania,16.5
+McKean,2021-04-03,Pennsylvania,13.1
+Mercer,2021-04-03,Pennsylvania,22.4
+Mifflin,2021-04-03,Pennsylvania,17.5
+Monroe,2021-04-03,Pennsylvania,11.2
+Montgomery,2021-04-03,Pennsylvania,16.8
+Montour,2021-04-03,Pennsylvania,36.1
+Northampton,2021-04-03,Pennsylvania,17.9
+Northumberland,2021-04-03,Pennsylvania,19.6
+Perry,2021-04-03,Pennsylvania,10.3
+Philadelphia,2021-04-03,Pennsylvania,15.4
+Pike,2021-04-03,Pennsylvania,12.2
+Potter,2021-04-03,Pennsylvania,10.2
+Schuylkill,2021-04-03,Pennsylvania,17.6
+Snyder,2021-04-03,Pennsylvania,13.9
+Somerset,2021-04-03,Pennsylvania,13.7
+Sullivan,2021-04-03,Pennsylvania,17.5
+Susquehanna,2021-04-03,Pennsylvania,13.9
+Tioga,2021-04-03,Pennsylvania,13.0
+Union,2021-04-03,Pennsylvania,18.5
+Venango,2021-04-03,Pennsylvania,15.9
+Warren,2021-04-03,Pennsylvania,13.4
+Washington,2021-04-03,Pennsylvania,18.4
+Wayne,2021-04-03,Pennsylvania,17.5
+Westmoreland,2021-04-03,Pennsylvania,17.9
+Wyoming,2021-04-03,Pennsylvania,16.5
+York,2021-04-03,Pennsylvania,15.3
+Adjuntas,2021-04-03,Puerto Rico,12.1
+Aguada,2021-04-03,Puerto Rico,10.0
+Aguadilla,2021-04-03,Puerto Rico,12.8
+Aguas Buenas,2021-04-03,Puerto Rico,10.8
+Aibonito,2021-04-03,Puerto Rico,20.2
+Añasco,2021-04-03,Puerto Rico,10.0
+Arecibo,2021-04-03,Puerto Rico,15.5
+Arroyo,2021-04-03,Puerto Rico,10.4
+Barceloneta,2021-04-03,Puerto Rico,11.1
+Barranquitas,2021-04-03,Puerto Rico,13.1
+Bayamón,2021-04-03,Puerto Rico,16.0
+Cabo Rojo,2021-04-03,Puerto Rico,12.3
+Caguas,2021-04-03,Puerto Rico,13.4
+Camuy,2021-04-03,Puerto Rico,11.4
+Canóvanas,2021-04-03,Puerto Rico,10.8
+Carolina,2021-04-03,Puerto Rico,13.2
+Cataño,2021-04-03,Puerto Rico,11.4
+Cayey,2021-04-03,Puerto Rico,14.7
+Ceiba,2021-04-03,Puerto Rico,10.8
+Ciales,2021-04-03,Puerto Rico,13.2
+Cidra,2021-04-03,Puerto Rico,11.8
+Coamo,2021-04-03,Puerto Rico,15.2
+Comerío,2021-04-03,Puerto Rico,9.3
+Corozal,2021-04-03,Puerto Rico,11.3
+Culebra,2021-04-03,Puerto Rico,2.7
+Dorado,2021-04-03,Puerto Rico,12.1
+Fajardo,2021-04-03,Puerto Rico,13.9
+Florida,2021-04-03,Puerto Rico,13.6
+Guánica,2021-04-03,Puerto Rico,11.1
+Guayama,2021-04-03,Puerto Rico,9.1
+Guayanilla,2021-04-03,Puerto Rico,12.1
+Guaynabo,2021-04-03,Puerto Rico,18.3
+Gurabo,2021-04-03,Puerto Rico,10.2
+Hatillo,2021-04-03,Puerto Rico,12.8
+Hormigueros,2021-04-03,Puerto Rico,15.6
+Humacao,2021-04-03,Puerto Rico,12.0
+Isabela,2021-04-03,Puerto Rico,8.7
+Jayuya,2021-04-03,Puerto Rico,10.7
+Juana Díaz,2021-04-03,Puerto Rico,12.4
+Juncos,2021-04-03,Puerto Rico,10.3
+Lajas,2021-04-03,Puerto Rico,13.6
+Lares,2021-04-03,Puerto Rico,19.4
+Las Marías,2021-04-03,Puerto Rico,19.4
+Las Piedras,2021-04-03,Puerto Rico,10.0
+Loíza,2021-04-03,Puerto Rico,8.6
+Luquillo,2021-04-03,Puerto Rico,8.3
+Manatí,2021-04-03,Puerto Rico,13.2
+Maricao,2021-04-03,Puerto Rico,9.3
+Maunabo,2021-04-03,Puerto Rico,9.4
+Mayagüez,2021-04-03,Puerto Rico,15.6
+Moca,2021-04-03,Puerto Rico,14.6
+Morovis,2021-04-03,Puerto Rico,9.3
+Naguabo,2021-04-03,Puerto Rico,7.5
+Naranjito,2021-04-03,Puerto Rico,12.9
+Orocovis,2021-04-03,Puerto Rico,10.7
+Patillas,2021-04-03,Puerto Rico,7.8
+Peñuelas,2021-04-03,Puerto Rico,11.2
+Ponce,2021-04-03,Puerto Rico,18.1
+Quebradillas,2021-04-03,Puerto Rico,12.9
+Rincón,2021-04-03,Puerto Rico,8.3
+Río Grande,2021-04-03,Puerto Rico,10.5
+Sabana Grande,2021-04-03,Puerto Rico,17.3
+Salinas,2021-04-03,Puerto Rico,13.3
+San Germán,2021-04-03,Puerto Rico,13.0
+San Juan,2021-04-03,Puerto Rico,14.6
+San Lorenzo,2021-04-03,Puerto Rico,8.4
+San Sebastián,2021-04-03,Puerto Rico,19.5
+Santa Isabel,2021-04-03,Puerto Rico,9.0
+Toa Alta,2021-04-03,Puerto Rico,10.2
+Toa Baja,2021-04-03,Puerto Rico,11.1
+Trujillo Alto,2021-04-03,Puerto Rico,12.3
+Utuado,2021-04-03,Puerto Rico,13.7
+Vega Alta,2021-04-03,Puerto Rico,10.0
+Vega Baja,2021-04-03,Puerto Rico,11.9
+Vieques,2021-04-03,Puerto Rico,36.8
+Villalba,2021-04-03,Puerto Rico,24.3
+Yabucoa,2021-04-03,Puerto Rico,8.5
+Yauco,2021-04-03,Puerto Rico,13.9
+Bristol,2021-04-03,Rhode Island,26.2
+Kent,2021-04-03,Rhode Island,25.4
+Newport,2021-04-03,Rhode Island,23.9
+Providence,2021-04-03,Rhode Island,19.7
+Washington,2021-04-03,Rhode Island,25.4
+Abbeville,2021-04-03,South Carolina,16.6
+Aiken,2021-04-03,South Carolina,14.2
+Allendale,2021-04-03,South Carolina,11.6
+Anderson,2021-04-03,South Carolina,13.6
+Bamberg,2021-04-03,South Carolina,13.5
+Barnwell,2021-04-03,South Carolina,13.5
+Beaufort,2021-04-03,South Carolina,21.9
+Berkeley,2021-04-03,South Carolina,10.6
+Calhoun,2021-04-03,South Carolina,10.8
+Charleston,2021-04-03,South Carolina,18.8
+Cherokee,2021-04-03,South Carolina,9.7
+Chester,2021-04-03,South Carolina,12.4
+Chesterfield,2021-04-03,South Carolina,13.0
+Clarendon,2021-04-03,South Carolina,16.2
+Colleton,2021-04-03,South Carolina,11.4
+Darlington,2021-04-03,South Carolina,15.6
+Dillon,2021-04-03,South Carolina,14.3
+Dorchester,2021-04-03,South Carolina,11.4
+Edgefield,2021-04-03,South Carolina,17.1
+Fairfield,2021-04-03,South Carolina,15.7
+Florence,2021-04-03,South Carolina,16.7
+Georgetown,2021-04-03,South Carolina,20.2
+Greenville,2021-04-03,South Carolina,14.7
+Greenwood,2021-04-03,South Carolina,18.2
+Hampton,2021-04-03,South Carolina,16.1
+Horry,2021-04-03,South Carolina,18.7
+Jasper,2021-04-03,South Carolina,8.1
+Kershaw,2021-04-03,South Carolina,12.9
+Lancaster,2021-04-03,South Carolina,11.8
+Laurens,2021-04-03,South Carolina,13.2
+Lee,2021-04-03,South Carolina,13.3
+Lexington,2021-04-03,South Carolina,15.1
+Marion,2021-04-03,South Carolina,14.8
+Marlboro,2021-04-03,South Carolina,13.7
+McCormick,2021-04-03,South Carolina,30.3
+Newberry,2021-04-03,South Carolina,17.7
+Oconee,2021-04-03,South Carolina,17.1
+Orangeburg,2021-04-03,South Carolina,14.7
+Pickens,2021-04-03,South Carolina,14.7
+Richland,2021-04-03,South Carolina,15.1
+Saluda,2021-04-03,South Carolina,8.8
+Spartanburg,2021-04-03,South Carolina,11.4
+Sumter,2021-04-03,South Carolina,15.0
+Union,2021-04-03,South Carolina,11.6
+Williamsburg,2021-04-03,South Carolina,16.9
+York,2021-04-03,South Carolina,10.3
+Aurora,2021-04-03,South Dakota,13.4
+Beadle,2021-04-03,South Dakota,12.8
+Bennett,2021-04-03,South Dakota,20.9
+Bon Homme,2021-04-03,South Dakota,25.9
+Brookings,2021-04-03,South Dakota,10.0
+Brown,2021-04-03,South Dakota,22.3
+Brule,2021-04-03,South Dakota,17.0
+Buffalo,2021-04-03,South Dakota,21.9
+Butte,2021-04-03,South Dakota,10.7
+Campbell,2021-04-03,South Dakota,16.4
+Charles Mix,2021-04-03,South Dakota,17.9
+Clark,2021-04-03,South Dakota,20.6
+Clay,2021-04-03,South Dakota,21.9
+Codington,2021-04-03,South Dakota,10.5
+Corson,2021-04-03,South Dakota,11.0
+Custer,2021-04-03,South Dakota,14.6
+Davison,2021-04-03,South Dakota,10.6
+Day,2021-04-03,South Dakota,20.9
+Deuel,2021-04-03,South Dakota,13.2
+Dewey,2021-04-03,South Dakota,26.0
+Douglas,2021-04-03,South Dakota,12.4
+Edmunds,2021-04-03,South Dakota,11.6
+Fall River,2021-04-03,South Dakota,22.4
+Faulk,2021-04-03,South Dakota,19.1
+Grant,2021-04-03,South Dakota,17.6
+Gregory,2021-04-03,South Dakota,16.6
+Haakon,2021-04-03,South Dakota,12.0
+Hamlin,2021-04-03,South Dakota,10.0
+Hand,2021-04-03,South Dakota,12.4
+Hanson,2021-04-03,South Dakota,9.7
+Harding,2021-04-03,South Dakota,5.9
+Hughes,2021-04-03,South Dakota,15.5
+Hutchinson,2021-04-03,South Dakota,13.2
+Hyde,2021-04-03,South Dakota,18.7
+Jackson,2021-04-03,South Dakota,16.7
+Jerauld,2021-04-03,South Dakota,17.1
+Jones,2021-04-03,South Dakota,22.8
+Kingsbury,2021-04-03,South Dakota,25.5
+Lake,2021-04-03,South Dakota,11.9
+Lawrence,2021-04-03,South Dakota,13.5
+Lincoln,2021-04-03,South Dakota,14.1
+Lyman,2021-04-03,South Dakota,25.6
+Marshall,2021-04-03,South Dakota,15.5
+McCook,2021-04-03,South Dakota,17.2
+McPherson,2021-04-03,South Dakota,3.6
+Meade,2021-04-03,South Dakota,18.5
+Mellette,2021-04-03,South Dakota,18.1
+Miner,2021-04-03,South Dakota,26.1
+Minnehaha,2021-04-03,South Dakota,21.3
+Moody,2021-04-03,South Dakota,18.9
+Oglala Lakota County,2021-04-03,South Dakota,25.3
+Pennington,2021-04-03,South Dakota,15.0
+Perkins,2021-04-03,South Dakota,11.4
+Potter,2021-04-03,South Dakota,16.8
+Roberts,2021-04-03,South Dakota,23.9
+Sanborn,2021-04-03,South Dakota,11.7
+Spink,2021-04-03,South Dakota,15.3
+Stanley,2021-04-03,South Dakota,25.2
+Sully,2021-04-03,South Dakota,9.6
+Todd,2021-04-03,South Dakota,22.2
+Tripp,2021-04-03,South Dakota,14.4
+Turner,2021-04-03,South Dakota,14.0
+Union,2021-04-03,South Dakota,18.0
+Walworth,2021-04-03,South Dakota,13.7
+Yankton,2021-04-03,South Dakota,23.9
+Ziebach,2021-04-03,South Dakota,9.0
+Anderson,2021-04-03,Tennessee,16.1
+Bedford,2021-04-03,Tennessee,10.8
+Benton,2021-04-03,Tennessee,17.0
+Bledsoe,2021-04-03,Tennessee,10.3
+Blount,2021-04-03,Tennessee,16.0
+Bradley,2021-04-03,Tennessee,10.4
+Campbell,2021-04-03,Tennessee,13.2
+Cannon,2021-04-03,Tennessee,9.4
+Carroll,2021-04-03,Tennessee,17.3
+Carter,2021-04-03,Tennessee,15.4
+Cheatham,2021-04-03,Tennessee,13.7
+Chester,2021-04-03,Tennessee,12.6
+Claiborne,2021-04-03,Tennessee,15.9
+Clay,2021-04-03,Tennessee,11.6
+Cocke,2021-04-03,Tennessee,16.2
+Coffee,2021-04-03,Tennessee,12.7
+Crockett,2021-04-03,Tennessee,16.7
+Cumberland,2021-04-03,Tennessee,18.4
+Davidson,2021-04-03,Tennessee,16.7
+Decatur,2021-04-03,Tennessee,14.8
+DeKalb,2021-04-03,Tennessee,13.7
+Dickson,2021-04-03,Tennessee,12.4
+Dyer,2021-04-03,Tennessee,12.4
+Fayette,2021-04-03,Tennessee,16.1
+Fentress,2021-04-03,Tennessee,12.2
+Franklin,2021-04-03,Tennessee,12.6
+Gibson,2021-04-03,Tennessee,14.7
+Giles,2021-04-03,Tennessee,11.9
+Grainger,2021-04-03,Tennessee,15.7
+Greene,2021-04-03,Tennessee,16.5
+Grundy,2021-04-03,Tennessee,8.7
+Hamblen,2021-04-03,Tennessee,12.6
+Hamilton,2021-04-03,Tennessee,16.8
+Hancock,2021-04-03,Tennessee,13.3
+Hardeman,2021-04-03,Tennessee,15.3
+Hardin,2021-04-03,Tennessee,16.9
+Hawkins,2021-04-03,Tennessee,15.0
+Haywood,2021-04-03,Tennessee,15.1
+Henderson,2021-04-03,Tennessee,15.4
+Henry,2021-04-03,Tennessee,19.4
+Hickman,2021-04-03,Tennessee,12.3
+Houston,2021-04-03,Tennessee,13.1
+Humphreys,2021-04-03,Tennessee,13.0
+Jackson,2021-04-03,Tennessee,12.7
+Jefferson,2021-04-03,Tennessee,14.6
+Johnson,2021-04-03,Tennessee,13.8
+Knox,2021-04-03,Tennessee,16.2
+Lake,2021-04-03,Tennessee,11.9
+Lauderdale,2021-04-03,Tennessee,9.9
+Lawrence,2021-04-03,Tennessee,11.2
+Lewis,2021-04-03,Tennessee,13.2
+Lincoln,2021-04-03,Tennessee,12.3
+Loudon,2021-04-03,Tennessee,22.2
+Macon,2021-04-03,Tennessee,10.9
+Madison,2021-04-03,Tennessee,19.3
+Marion,2021-04-03,Tennessee,12.4
+Marshall,2021-04-03,Tennessee,12.9
+Maury,2021-04-03,Tennessee,16.9
+McMinn,2021-04-03,Tennessee,11.4
+McNairy,2021-04-03,Tennessee,18.8
+Meigs,2021-04-03,Tennessee,20.0
+Monroe,2021-04-03,Tennessee,14.0
+Montgomery,2021-04-03,Tennessee,12.3
+Moore,2021-04-03,Tennessee,7.6
+Morgan,2021-04-03,Tennessee,16.0
+Obion,2021-04-03,Tennessee,13.5
+Overton,2021-04-03,Tennessee,13.5
+Perry,2021-04-03,Tennessee,14.9
+Pickett,2021-04-03,Tennessee,19.1
+Polk,2021-04-03,Tennessee,13.7
+Putnam,2021-04-03,Tennessee,16.6
+Rhea,2021-04-03,Tennessee,15.0
+Roane,2021-04-03,Tennessee,13.4
+Robertson,2021-04-03,Tennessee,13.6
+Rutherford,2021-04-03,Tennessee,12.3
+Scott,2021-04-03,Tennessee,13.5
+Sequatchie,2021-04-03,Tennessee,9.2
+Sevier,2021-04-03,Tennessee,12.2
+Shelby,2021-04-03,Tennessee,13.6
+Smith,2021-04-03,Tennessee,11.1
+Stewart,2021-04-03,Tennessee,13.5
+Sullivan,2021-04-03,Tennessee,20.5
+Sumner,2021-04-03,Tennessee,13.0
+Tipton,2021-04-03,Tennessee,10.0
+Trousdale,2021-04-03,Tennessee,12.8
+Unicoi,2021-04-03,Tennessee,20.8
+Union,2021-04-03,Tennessee,10.8
+Van Buren,2021-04-03,Tennessee,20.3
+Warren,2021-04-03,Tennessee,13.3
+Washington,2021-04-03,Tennessee,20.4
+Wayne,2021-04-03,Tennessee,16.7
+Weakley,2021-04-03,Tennessee,12.6
+White,2021-04-03,Tennessee,15.6
+Williamson,2021-04-03,Tennessee,18.7
+Wilson,2021-04-03,Tennessee,13.9
+Anderson,2021-04-03,Texas,
+Andrews,2021-04-03,Texas,
+Angelina,2021-04-03,Texas,
+Aransas,2021-04-03,Texas,
+Archer,2021-04-03,Texas,
+Armstrong,2021-04-03,Texas,
+Atascosa,2021-04-03,Texas,
+Austin,2021-04-03,Texas,
+Bailey,2021-04-03,Texas,
+Bandera,2021-04-03,Texas,
+Bastrop,2021-04-03,Texas,
+Baylor,2021-04-03,Texas,
+Bee,2021-04-03,Texas,
+Bell,2021-04-03,Texas,
+Bexar,2021-04-03,Texas,
+Blanco,2021-04-03,Texas,
+Borden,2021-04-03,Texas,
+Bosque,2021-04-03,Texas,
+Bowie,2021-04-03,Texas,
+Brazoria,2021-04-03,Texas,
+Brazos,2021-04-03,Texas,
+Brewster,2021-04-03,Texas,
+Briscoe,2021-04-03,Texas,
+Brooks,2021-04-03,Texas,
+Brown,2021-04-03,Texas,
+Burleson,2021-04-03,Texas,
+Burnet,2021-04-03,Texas,
+Caldwell,2021-04-03,Texas,
+Calhoun,2021-04-03,Texas,
+Callahan,2021-04-03,Texas,
+Cameron,2021-04-03,Texas,
+Camp,2021-04-03,Texas,
+Carson,2021-04-03,Texas,
+Cass,2021-04-03,Texas,
+Castro,2021-04-03,Texas,
+Chambers,2021-04-03,Texas,
+Cherokee,2021-04-03,Texas,
+Childress,2021-04-03,Texas,
+Clay,2021-04-03,Texas,
+Cochran,2021-04-03,Texas,
+Coke,2021-04-03,Texas,
+Coleman,2021-04-03,Texas,
+Collin,2021-04-03,Texas,
+Collingsworth,2021-04-03,Texas,
+Colorado,2021-04-03,Texas,
+Comal,2021-04-03,Texas,
+Comanche,2021-04-03,Texas,
+Concho,2021-04-03,Texas,
+Cooke,2021-04-03,Texas,
+Coryell,2021-04-03,Texas,
+Cottle,2021-04-03,Texas,
+Crane,2021-04-03,Texas,
+Crockett,2021-04-03,Texas,
+Crosby,2021-04-03,Texas,
+Culberson,2021-04-03,Texas,
+Dallam,2021-04-03,Texas,
+Dallas,2021-04-03,Texas,
+Dawson,2021-04-03,Texas,
+Deaf Smith,2021-04-03,Texas,
+Delta,2021-04-03,Texas,
+Denton,2021-04-03,Texas,
+DeWitt,2021-04-03,Texas,
+Dickens,2021-04-03,Texas,
+Dimmit,2021-04-03,Texas,
+Donley,2021-04-03,Texas,
+Duval,2021-04-03,Texas,
+Eastland,2021-04-03,Texas,
+Ector,2021-04-03,Texas,
+Edwards,2021-04-03,Texas,
+El Paso,2021-04-03,Texas,
+Ellis,2021-04-03,Texas,
+Erath,2021-04-03,Texas,
+Falls,2021-04-03,Texas,
+Fannin,2021-04-03,Texas,
+Fayette,2021-04-03,Texas,
+Fisher,2021-04-03,Texas,
+Floyd,2021-04-03,Texas,
+Foard,2021-04-03,Texas,
+Fort Bend,2021-04-03,Texas,
+Franklin,2021-04-03,Texas,
+Freestone,2021-04-03,Texas,
+Frio,2021-04-03,Texas,
+Gaines,2021-04-03,Texas,
+Galveston,2021-04-03,Texas,
+Garza,2021-04-03,Texas,
+Gillespie,2021-04-03,Texas,
+Glasscock,2021-04-03,Texas,
+Goliad,2021-04-03,Texas,
+Gonzales,2021-04-03,Texas,
+Gray,2021-04-03,Texas,
+Grayson,2021-04-03,Texas,
+Gregg,2021-04-03,Texas,
+Grimes,2021-04-03,Texas,
+Guadalupe,2021-04-03,Texas,
+Hale,2021-04-03,Texas,
+Hall,2021-04-03,Texas,
+Hamilton,2021-04-03,Texas,
+Hansford,2021-04-03,Texas,
+Hardeman,2021-04-03,Texas,
+Hardin,2021-04-03,Texas,
+Harris,2021-04-03,Texas,
+Harrison,2021-04-03,Texas,
+Hartley,2021-04-03,Texas,
+Haskell,2021-04-03,Texas,
+Hays,2021-04-03,Texas,
+Hemphill,2021-04-03,Texas,
+Henderson,2021-04-03,Texas,
+Hidalgo,2021-04-03,Texas,
+Hill,2021-04-03,Texas,
+Hockley,2021-04-03,Texas,
+Hood,2021-04-03,Texas,
+Hopkins,2021-04-03,Texas,
+Houston,2021-04-03,Texas,
+Howard,2021-04-03,Texas,
+Hudspeth,2021-04-03,Texas,
+Hunt,2021-04-03,Texas,
+Hutchinson,2021-04-03,Texas,
+Irion,2021-04-03,Texas,
+Jack,2021-04-03,Texas,
+Jackson,2021-04-03,Texas,
+Jasper,2021-04-03,Texas,
+Jeff Davis,2021-04-03,Texas,
+Jefferson,2021-04-03,Texas,
+Jim Hogg,2021-04-03,Texas,
+Jim Wells,2021-04-03,Texas,
+Johnson,2021-04-03,Texas,
+Jones,2021-04-03,Texas,
+Karnes,2021-04-03,Texas,
+Kaufman,2021-04-03,Texas,
+Kendall,2021-04-03,Texas,
+Kenedy,2021-04-03,Texas,
+Kent,2021-04-03,Texas,
+Kerr,2021-04-03,Texas,
+Kimble,2021-04-03,Texas,
+King,2021-04-03,Texas,
+Kinney,2021-04-03,Texas,
+Kleberg,2021-04-03,Texas,
+Knox,2021-04-03,Texas,
+La Salle,2021-04-03,Texas,
+Lamar,2021-04-03,Texas,
+Lamb,2021-04-03,Texas,
+Lampasas,2021-04-03,Texas,
+Lavaca,2021-04-03,Texas,
+Lee,2021-04-03,Texas,
+Leon,2021-04-03,Texas,
+Liberty,2021-04-03,Texas,
+Limestone,2021-04-03,Texas,
+Lipscomb,2021-04-03,Texas,
+Live Oak,2021-04-03,Texas,
+Llano,2021-04-03,Texas,
+Loving,2021-04-03,Texas,
+Lubbock,2021-04-03,Texas,
+Lynn,2021-04-03,Texas,
+Madison,2021-04-03,Texas,
+Marion,2021-04-03,Texas,
+Martin,2021-04-03,Texas,
+Mason,2021-04-03,Texas,
+Matagorda,2021-04-03,Texas,
+Maverick,2021-04-03,Texas,
+McCulloch,2021-04-03,Texas,
+McLennan,2021-04-03,Texas,
+McMullen,2021-04-03,Texas,
+Medina,2021-04-03,Texas,
+Menard,2021-04-03,Texas,
+Midland,2021-04-03,Texas,
+Milam,2021-04-03,Texas,
+Mills,2021-04-03,Texas,
+Mitchell,2021-04-03,Texas,
+Montague,2021-04-03,Texas,
+Montgomery,2021-04-03,Texas,
+Moore,2021-04-03,Texas,
+Morris,2021-04-03,Texas,
+Motley,2021-04-03,Texas,
+Nacogdoches,2021-04-03,Texas,
+Navarro,2021-04-03,Texas,
+Newton,2021-04-03,Texas,
+Nolan,2021-04-03,Texas,
+Nueces,2021-04-03,Texas,
+Ochiltree,2021-04-03,Texas,
+Oldham,2021-04-03,Texas,
+Orange,2021-04-03,Texas,
+Palo Pinto,2021-04-03,Texas,
+Panola,2021-04-03,Texas,
+Parker,2021-04-03,Texas,
+Parmer,2021-04-03,Texas,
+Pecos,2021-04-03,Texas,
+Polk,2021-04-03,Texas,
+Potter,2021-04-03,Texas,
+Presidio,2021-04-03,Texas,
+Rains,2021-04-03,Texas,
+Randall,2021-04-03,Texas,
+Reagan,2021-04-03,Texas,
+Real,2021-04-03,Texas,
+Red River,2021-04-03,Texas,
+Reeves,2021-04-03,Texas,
+Refugio,2021-04-03,Texas,
+Roberts,2021-04-03,Texas,
+Robertson,2021-04-03,Texas,
+Rockwall,2021-04-03,Texas,
+Runnels,2021-04-03,Texas,
+Rusk,2021-04-03,Texas,
+Sabine,2021-04-03,Texas,
+San Augustine,2021-04-03,Texas,
+San Jacinto,2021-04-03,Texas,
+San Patricio,2021-04-03,Texas,
+San Saba,2021-04-03,Texas,
+Schleicher,2021-04-03,Texas,
+Scurry,2021-04-03,Texas,
+Shackelford,2021-04-03,Texas,
+Shelby,2021-04-03,Texas,
+Sherman,2021-04-03,Texas,
+Smith,2021-04-03,Texas,
+Somervell,2021-04-03,Texas,
+Starr,2021-04-03,Texas,
+Stephens,2021-04-03,Texas,
+Sterling,2021-04-03,Texas,
+Stonewall,2021-04-03,Texas,
+Sutton,2021-04-03,Texas,
+Swisher,2021-04-03,Texas,
+Tarrant,2021-04-03,Texas,
+Taylor,2021-04-03,Texas,
+Terrell,2021-04-03,Texas,
+Terry,2021-04-03,Texas,
+Throckmorton,2021-04-03,Texas,
+Titus,2021-04-03,Texas,
+Tom Green,2021-04-03,Texas,
+Travis,2021-04-03,Texas,
+Trinity,2021-04-03,Texas,
+Tyler,2021-04-03,Texas,
+Upshur,2021-04-03,Texas,
+Upton,2021-04-03,Texas,
+Uvalde,2021-04-03,Texas,
+Val Verde,2021-04-03,Texas,
+Van Zandt,2021-04-03,Texas,
+Victoria,2021-04-03,Texas,
+Walker,2021-04-03,Texas,
+Waller,2021-04-03,Texas,
+Ward,2021-04-03,Texas,
+Washington,2021-04-03,Texas,
+Webb,2021-04-03,Texas,
+Wharton,2021-04-03,Texas,
+Wheeler,2021-04-03,Texas,
+Wichita,2021-04-03,Texas,
+Wilbarger,2021-04-03,Texas,
+Willacy,2021-04-03,Texas,
+Williamson,2021-04-03,Texas,
+Wilson,2021-04-03,Texas,
+Winkler,2021-04-03,Texas,
+Wise,2021-04-03,Texas,
+Wood,2021-04-03,Texas,
+Yoakum,2021-04-03,Texas,
+Young,2021-04-03,Texas,
+Zapata,2021-04-03,Texas,
+Zavala,2021-04-03,Texas,
+Beaver,2021-04-03,Utah,14.6
+Box Elder,2021-04-03,Utah,11.8
+Cache,2021-04-03,Utah,11.7
+Carbon,2021-04-03,Utah,12.1
+Daggett,2021-04-03,Utah,13.1
+Davis,2021-04-03,Utah,12.5
+Duchesne,2021-04-03,Utah,11.2
+Emery,2021-04-03,Utah,13.8
+Garfield,2021-04-03,Utah,17.1
+Grand,2021-04-03,Utah,12.2
+Iron,2021-04-03,Utah,10.3
+Juab,2021-04-03,Utah,11.9
+Kane,2021-04-03,Utah,18.2
+Millard,2021-04-03,Utah,13.0
+Morgan,2021-04-03,Utah,12.3
+Piute,2021-04-03,Utah,14.0
+Rich,2021-04-03,Utah,16.5
+Salt Lake,2021-04-03,Utah,14.4
+San Juan,2021-04-03,Utah,23.4
+Sanpete,2021-04-03,Utah,11.2
+Sevier,2021-04-03,Utah,14.7
+Summit,2021-04-03,Utah,20.5
+Tooele,2021-04-03,Utah,11.4
+Uintah,2021-04-03,Utah,11.4
+Utah,2021-04-03,Utah,10.5
+Wasatch,2021-04-03,Utah,12.3
+Washington,2021-04-03,Utah,11.7
+Wayne,2021-04-03,Utah,19.7
+Weber,2021-04-03,Utah,13.1
+Addison,2021-04-03,Vermont,16.8
+Bennington,2021-04-03,Vermont,12.3
+Caledonia,2021-04-03,Vermont,10.1
+Chittenden,2021-04-03,Vermont,19.8
+Essex,2021-04-03,Vermont,10.1
+Franklin,2021-04-03,Vermont,8.6
+Grand Isle,2021-04-03,Vermont,21.7
+Lamoille,2021-04-03,Vermont,13.8
+Orange,2021-04-03,Vermont,14.8
+Orleans,2021-04-03,Vermont,15.8
+Rutland,2021-04-03,Vermont,22.6
+Washington,2021-04-03,Vermont,12.8
+Windham,2021-04-03,Vermont,16.0
+Windsor,2021-04-03,Vermont,16.4
+Accomack,2021-04-03,Virginia,23.3
+Albemarle,2021-04-03,Virginia,7.7
+Alexandria,2021-04-03,Virginia,8.4
+Alleghany,2021-04-03,Virginia,1.4
+Amelia,2021-04-03,Virginia,1.2
+Amherst,2021-04-03,Virginia,10.9
+Appomattox,2021-04-03,Virginia,1.1
+Arlington,2021-04-03,Virginia,10.2
+Augusta,2021-04-03,Virginia,10.8
+Bath,2021-04-03,Virginia,6.4
+Bedford,2021-04-03,Virginia,7.1
+Bland,2021-04-03,Virginia,3.2
+Botetourt,2021-04-03,Virginia,8.7
+Bristol,2021-04-03,Virginia,24.1
+Brunswick,2021-04-03,Virginia,10.6
+Buchanan,2021-04-03,Virginia,14.1
+Buckingham,2021-04-03,Virginia,3.8
+Buena Vista,2021-04-03,Virginia,
+Campbell,2021-04-03,Virginia,6.5
+Caroline,2021-04-03,Virginia,4.1
+Carroll,2021-04-03,Virginia,3.4
+Charles City,2021-04-03,Virginia,1.6
+Charlotte,2021-04-03,Virginia,4.1
+Charlottesville,2021-04-03,Virginia,0.8
+Chesapeake,2021-04-03,Virginia,3.4
+Chesterfield,2021-04-03,Virginia,8.7
+Clarke,2021-04-03,Virginia,18.4
+Colonial Heights,2021-04-03,Virginia,
+Covington,2021-04-03,Virginia,
+Craig,2021-04-03,Virginia,1.1
+Culpeper,2021-04-03,Virginia,3.7
+Cumberland,2021-04-03,Virginia,2.5
+Danville,2021-04-03,Virginia,
+Dickenson,2021-04-03,Virginia,14.1
+Dinwiddie,2021-04-03,Virginia,8.8
+Emporia,2021-04-03,Virginia,
+Essex,2021-04-03,Virginia,5.0
+Fairfax,2021-04-03,Virginia,13.6
+Fairfax,2021-04-03,Virginia,1.3
+Falls Church,2021-04-03,Virginia,1.6
+Fauquier,2021-04-03,Virginia,10.9
+Floyd,2021-04-03,Virginia,2.2
+Fluvanna,2021-04-03,Virginia,14.8
+Franklin,2021-04-03,Virginia,10.0
+Franklin,2021-04-03,Virginia,
+Frederick,2021-04-03,Virginia,6.6
+Fredericksburg,2021-04-03,Virginia,1.5
+Galax,2021-04-03,Virginia,
+Giles,2021-04-03,Virginia,7.5
+Gloucester,2021-04-03,Virginia,18.3
+Goochland,2021-04-03,Virginia,15.7
+Grayson,2021-04-03,Virginia,10.5
+Greene,2021-04-03,Virginia,0.7
+Greensville,2021-04-03,Virginia,2.2
+Halifax,2021-04-03,Virginia,6.5
+Hampton,2021-04-03,Virginia,11.7
+Hanover,2021-04-03,Virginia,9.8
+Harrisonburg,2021-04-03,Virginia,0.6
+Henrico,2021-04-03,Virginia,6.8
+Henry,2021-04-03,Virginia,6.2
+Highland,2021-04-03,Virginia,26.3
+Hopewell,2021-04-03,Virginia,
+Isle of Wight,2021-04-03,Virginia,6.0
+James City,2021-04-03,Virginia,2.8
+King and Queen,2021-04-03,Virginia,8.4
+King George,2021-04-03,Virginia,3.2
+King William,2021-04-03,Virginia,8.5
+Lancaster,2021-04-03,Virginia,17.2
+Lee,2021-04-03,Virginia,15.4
+Lexington,2021-04-03,Virginia,
+Loudoun,2021-04-03,Virginia,11.0
+Louisa,2021-04-03,Virginia,1.1
+Lunenburg,2021-04-03,Virginia,15.0
+Lynchburg,2021-04-03,Virginia,0.2
+Madison,2021-04-03,Virginia,18.0
+Manassas,2021-04-03,Virginia,0.6
+Manassas Park,2021-04-03,Virginia,
+Martinsville,2021-04-03,Virginia,
+Mathews,2021-04-03,Virginia,20.8
+Mecklenburg,2021-04-03,Virginia,5.0
+Middlesex,2021-04-03,Virginia,21.4
+Montgomery,2021-04-03,Virginia,8.7
+Nelson,2021-04-03,Virginia,9.6
+New Kent,2021-04-03,Virginia,8.5
+Newport News,2021-04-03,Virginia,9.2
+Norfolk,2021-04-03,Virginia,11.6
+Northampton,2021-04-03,Virginia,23.9
+Northumberland,2021-04-03,Virginia,11.2
+Norton,2021-04-03,Virginia,
+Nottoway,2021-04-03,Virginia,7.2
+Orange,2021-04-03,Virginia,1.8
+Page,2021-04-03,Virginia,4.6
+Patrick,2021-04-03,Virginia,9.4
+Petersburg,2021-04-03,Virginia,1.4
+Pittsylvania,2021-04-03,Virginia,8.1
+Poquoson,2021-04-03,Virginia,
+Portsmouth,2021-04-03,Virginia,25.6
+Powhatan,2021-04-03,Virginia,1.3
+Prince Edward,2021-04-03,Virginia,1.4
+Prince George,2021-04-03,Virginia,6.7
+Prince William,2021-04-03,Virginia,12.1
+Pulaski,2021-04-03,Virginia,8.3
+Radford,2021-04-03,Virginia,1.8
+Rappahannock,2021-04-03,Virginia,10.4
+Richmond,2021-04-03,Virginia,5.4
+Richmond,2021-04-03,Virginia,4.6
+Roanoke,2021-04-03,Virginia,2.7
+Roanoke,2021-04-03,Virginia,1.2
+Rockbridge,2021-04-03,Virginia,5.5
+Rockingham,2021-04-03,Virginia,5.5
+Russell,2021-04-03,Virginia,14.9
+Salem,2021-04-03,Virginia,3.5
+Scott,2021-04-03,Virginia,13.1
+Shenandoah,2021-04-03,Virginia,14.0
+Smyth,2021-04-03,Virginia,12.6
+Southampton,2021-04-03,Virginia,2.8
+Spotsylvania,2021-04-03,Virginia,4.0
+Stafford,2021-04-03,Virginia,10.5
+Staunton,2021-04-03,Virginia,0.7
+Suffolk,2021-04-03,Virginia,9.4
+Surry,2021-04-03,Virginia,15.8
+Sussex,2021-04-03,Virginia,6.4
+Tazewell,2021-04-03,Virginia,12.4
+Virginia Beach,2021-04-03,Virginia,11.5
+Warren,2021-04-03,Virginia,1.6
+Washington,2021-04-03,Virginia,20.9
+Waynesboro,2021-04-03,Virginia,
+Westmoreland,2021-04-03,Virginia,5.3
+Williamsburg,2021-04-03,Virginia,1.1
+Winchester,2021-04-03,Virginia,0.9
+Wise,2021-04-03,Virginia,9.4
+Wythe,2021-04-03,Virginia,8.3
+York,2021-04-03,Virginia,14.5
+Adams,2021-04-03,Washington,13.2
+Asotin,2021-04-03,Washington,16.6
+Benton,2021-04-03,Washington,16.7
+Chelan,2021-04-03,Washington,27.3
+Clallam,2021-04-03,Washington,31.7
+Clark,2021-04-03,Washington,16.0
+Columbia,2021-04-03,Washington,21.2
+Cowlitz,2021-04-03,Washington,15.8
+Douglas,2021-04-03,Washington,20.5
+Ferry,2021-04-03,Washington,24.2
+Franklin,2021-04-03,Washington,11.2
+Garfield,2021-04-03,Washington,14.2
+Grant,2021-04-03,Washington,14.2
+Grays Harbor,2021-04-03,Washington,21.0
+Island,2021-04-03,Washington,21.2
+Jefferson,2021-04-03,Washington,34.6
+King,2021-04-03,Washington,19.0
+Kitsap,2021-04-03,Washington,21.7
+Kittitas,2021-04-03,Washington,20.2
+Klickitat,2021-04-03,Washington,20.3
+Lewis,2021-04-03,Washington,14.0
+Lincoln,2021-04-03,Washington,20.8
+Mason,2021-04-03,Washington,21.3
+Okanogan,2021-04-03,Washington,29.2
+Pacific,2021-04-03,Washington,24.9
+Pend Oreille,2021-04-03,Washington,13.8
+Pierce,2021-04-03,Washington,17.1
+San Juan,2021-04-03,Washington,28.7
+Skagit,2021-04-03,Washington,22.0
+Skamania,2021-04-03,Washington,13.5
+Snohomish,2021-04-03,Washington,17.3
+Spokane,2021-04-03,Washington,19.0
+Stevens,2021-04-03,Washington,11.7
+Thurston,2021-04-03,Washington,19.1
+Wahkiakum,2021-04-03,Washington,22.4
+Walla Walla,2021-04-03,Washington,25.6
+Whatcom,2021-04-03,Washington,21.4
+Whitman,2021-04-03,Washington,14.1
+Yakima,2021-04-03,Washington,18.6
+Barbour,2021-04-03,West Virginia,1.4
+Berkeley,2021-04-03,West Virginia,12.6
+Boone,2021-04-03,West Virginia,15.5
+Braxton,2021-04-03,West Virginia,6.7
+Brooke,2021-04-03,West Virginia,10.6
+Cabell,2021-04-03,West Virginia,9.3
+Calhoun,2021-04-03,West Virginia,7.2
+Clay,2021-04-03,West Virginia,12.1
+Doddridge,2021-04-03,West Virginia,1.5
+Fayette,2021-04-03,West Virginia,13.5
+Gilmer,2021-04-03,West Virginia,25.2
+Grant,2021-04-03,West Virginia,7.2
+Greenbrier,2021-04-03,West Virginia,18.3
+Hampshire,2021-04-03,West Virginia,8.9
+Hancock,2021-04-03,West Virginia,10.0
+Hardy,2021-04-03,West Virginia,10.9
+Harrison,2021-04-03,West Virginia,12.0
+Jackson,2021-04-03,West Virginia,6.4
+Jefferson,2021-04-03,West Virginia,9.0
+Kanawha,2021-04-03,West Virginia,16.0
+Lewis,2021-04-03,West Virginia,16.3
+Lincoln,2021-04-03,West Virginia,7.3
+Logan,2021-04-03,West Virginia,15.7
+Marion,2021-04-03,West Virginia,3.2
+Marshall,2021-04-03,West Virginia,4.9
+Mason,2021-04-03,West Virginia,12.2
+McDowell,2021-04-03,West Virginia,11.5
+Mercer,2021-04-03,West Virginia,16.6
+Mineral,2021-04-03,West Virginia,16.1
+Mingo,2021-04-03,West Virginia,12.5
+Monongalia,2021-04-03,West Virginia,6.7
+Monroe,2021-04-03,West Virginia,17.1
+Morgan,2021-04-03,West Virginia,0.9
+Nicholas,2021-04-03,West Virginia,18.4
+Ohio,2021-04-03,West Virginia,2.9
+Pendleton,2021-04-03,West Virginia,21.2
+Pleasants,2021-04-03,West Virginia,3.9
+Pocahontas,2021-04-03,West Virginia,15.3
+Preston,2021-04-03,West Virginia,18.7
+Putnam,2021-04-03,West Virginia,6.1
+Raleigh,2021-04-03,West Virginia,11.6
+Randolph,2021-04-03,West Virginia,17.0
+Ritchie,2021-04-03,West Virginia,12.1
+Roane,2021-04-03,West Virginia,1.4
+Summers,2021-04-03,West Virginia,7.0
+Taylor,2021-04-03,West Virginia,1.6
+Tucker,2021-04-03,West Virginia,19.7
+Tyler,2021-04-03,West Virginia,9.8
+Upshur,2021-04-03,West Virginia,2.9
+Wayne,2021-04-03,West Virginia,15.3
+Webster,2021-04-03,West Virginia,18.1
+Wetzel,2021-04-03,West Virginia,4.3
+Wirt,2021-04-03,West Virginia,0.5
+Wood,2021-04-03,West Virginia,14.2
+Wyoming,2021-04-03,West Virginia,26.3
+Adams,2021-04-03,Wisconsin,21.2
+Ashland,2021-04-03,Wisconsin,27.9
+Barron,2021-04-03,Wisconsin,20.1
+Bayfield,2021-04-03,Wisconsin,40.4
+Brown,2021-04-03,Wisconsin,19.8
+Buffalo,2021-04-03,Wisconsin,21.0
+Burnett,2021-04-03,Wisconsin,21.4
+Calumet,2021-04-03,Wisconsin,17.7
+Chippewa,2021-04-03,Wisconsin,21.7
+Clark,2021-04-03,Wisconsin,13.4
+Columbia,2021-04-03,Wisconsin,22.8
+Crawford,2021-04-03,Wisconsin,24.9
+Dane,2021-04-03,Wisconsin,24.5
+Dodge,2021-04-03,Wisconsin,17.0
+Door,2021-04-03,Wisconsin,29.0
+Douglas,2021-04-03,Wisconsin,13.3
+Dunn,2021-04-03,Wisconsin,16.5
+Eau Claire,2021-04-03,Wisconsin,23.8
+Florence,2021-04-03,Wisconsin,23.4
+Fond du Lac,2021-04-03,Wisconsin,20.0
+Forest,2021-04-03,Wisconsin,29.1
+Grant,2021-04-03,Wisconsin,21.7
+Green,2021-04-03,Wisconsin,22.2
+Green Lake,2021-04-03,Wisconsin,22.8
+Iowa,2021-04-03,Wisconsin,25.3
+Iron,2021-04-03,Wisconsin,31.0
+Jackson,2021-04-03,Wisconsin,19.2
+Jefferson,2021-04-03,Wisconsin,19.8
+Juneau,2021-04-03,Wisconsin,21.9
+Kenosha,2021-04-03,Wisconsin,20.5
+Kewaunee,2021-04-03,Wisconsin,20.0
+La Crosse,2021-04-03,Wisconsin,23.6
+Lafayette,2021-04-03,Wisconsin,23.9
+Langlade,2021-04-03,Wisconsin,18.9
+Lincoln,2021-04-03,Wisconsin,19.5
+Manitowoc,2021-04-03,Wisconsin,20.1
+Marathon,2021-04-03,Wisconsin,15.8
+Marinette,2021-04-03,Wisconsin,18.6
+Marquette,2021-04-03,Wisconsin,23.5
+Menominee,2021-04-03,Wisconsin,31.7
+Milwaukee,2021-04-03,Wisconsin,16.9
+Monroe,2021-04-03,Wisconsin,20.9
+Oconto,2021-04-03,Wisconsin,19.4
+Oneida,2021-04-03,Wisconsin,25.4
+Outagamie,2021-04-03,Wisconsin,18.4
+Ozaukee,2021-04-03,Wisconsin,23.1
+Pepin,2021-04-03,Wisconsin,22.5
+Pierce,2021-04-03,Wisconsin,14.0
+Polk,2021-04-03,Wisconsin,17.2
+Portage,2021-04-03,Wisconsin,15.7
+Price,2021-04-03,Wisconsin,20.6
+Racine,2021-04-03,Wisconsin,18.3
+Richland,2021-04-03,Wisconsin,25.1
+Rock,2021-04-03,Wisconsin,21.7
+Rusk,2021-04-03,Wisconsin,13.4
+Sauk,2021-04-03,Wisconsin,22.8
+Sawyer,2021-04-03,Wisconsin,24.7
+Shawano,2021-04-03,Wisconsin,19.9
+Sheboygan,2021-04-03,Wisconsin,17.6
+St. Croix,2021-04-03,Wisconsin,13.6
+Taylor,2021-04-03,Wisconsin,12.3
+Trempealeau,2021-04-03,Wisconsin,25.1
+Vernon,2021-04-03,Wisconsin,21.8
+Vilas,2021-04-03,Wisconsin,25.1
+Walworth,2021-04-03,Wisconsin,16.3
+Washburn,2021-04-03,Wisconsin,25.5
+Washington,2021-04-03,Wisconsin,17.6
+Waukesha,2021-04-03,Wisconsin,22.8
+Waupaca,2021-04-03,Wisconsin,19.9
+Waushara,2021-04-03,Wisconsin,18.6
+Winnebago,2021-04-03,Wisconsin,19.5
+Wood,2021-04-03,Wisconsin,20.2
+Albany,2021-04-03,Wyoming,17.2
+Big Horn,2021-04-03,Wyoming,17.4
+Campbell,2021-04-03,Wyoming,10.3
+Carbon,2021-04-03,Wyoming,18.1
+Converse,2021-04-03,Wyoming,14.4
+Crook,2021-04-03,Wyoming,13.4
+Fremont,2021-04-03,Wyoming,27.4
+Goshen,2021-04-03,Wyoming,18.1
+Hot Springs,2021-04-03,Wyoming,24.4
+Johnson,2021-04-03,Wyoming,20.8
+Laramie,2021-04-03,Wyoming,21.0
+Lincoln,2021-04-03,Wyoming,13.3
+Natrona,2021-04-03,Wyoming,16.7
+Niobrara,2021-04-03,Wyoming,18.0
+Park,2021-04-03,Wyoming,20.6
+Platte,2021-04-03,Wyoming,13.8
+Sheridan,2021-04-03,Wyoming,22.8
+Sublette,2021-04-03,Wyoming,14.3
+Sweetwater,2021-04-03,Wyoming,17.6
+Teton,2021-04-03,Wyoming,26.1
+Uinta,2021-04-03,Wyoming,15.4
+Washakie,2021-04-03,Wyoming,20.6
+Weston,2021-04-03,Wyoming,17.6
+Unknown County,2021-04-03,Alabama,
+Unknown County,2021-04-03,Alaska,
+Unknown County,2021-04-03,American Samoa,
+Unknown County,2021-04-03,Arizona,
+Unknown County,2021-04-03,Arkansas,
+Unknown County,2021-04-03,California,
+Unknown County,2021-04-03,Colorado,
+Unknown County,2021-04-03,Connecticut,
+Unknown County,2021-04-03,Delaware,
+Unknown County,2021-04-03,District of Columbia,
+Unknown County,2021-04-03,Florida,
+Unknown County,2021-04-03,Georgia,
+Unknown County,2021-04-03,Idaho,
+Unknown County,2021-04-03,Illinois,
+Unknown County,2021-04-03,Indiana,
+Unknown County,2021-04-03,Iowa,
+Unknown County,2021-04-03,Kansas,
+Unknown County,2021-04-03,Kentucky,
+Unknown County,2021-04-03,Louisiana,
+Unknown County,2021-04-03,Maine,
+Unknown County,2021-04-03,Maryland,
+Unknown County,2021-04-03,Massachusetts,
+Unknown County,2021-04-03,Michigan,
+Unknown County,2021-04-03,Minnesota,
+Unknown County,2021-04-03,Mississippi,
+Unknown County,2021-04-03,Missouri,
+Unknown County,2021-04-03,Montana,
+Unknown County,2021-04-03,Nebraska,
+Unknown County,2021-04-03,Nevada,
+Unknown County,2021-04-03,New Hampshire,
+Unknown County,2021-04-03,New Jersey,
+Unknown County,2021-04-03,New York,
+Unknown County,2021-04-03,North Carolina,
+Unknown County,2021-04-03,North Dakota,
+Unknown County,2021-04-03,Northern Mariana Islands,
+Unknown County,2021-04-03,Ohio,
+Unknown County,2021-04-03,Oklahoma,
+Unknown County,2021-04-03,Oregon,
+Unknown County,2021-04-03,Palau,
+Unknown County,2021-04-03,Pennsylvania,
+Unknown County,2021-04-03,Puerto Rico,
+Unknown County,2021-04-03,Rhode Island,
+Unknown County,2021-04-03,South Carolina,
+Unknown County,2021-04-03,South Dakota,
+Unknown County,2021-04-03,Tennessee,
+Unknown County,2021-04-03,Utah,
+Unknown County,2021-04-03,Vermont,
+Unknown County,2021-04-03,Virginia,
+Unknown County,2021-04-03,Washington,
+Unknown County,2021-04-03,West Virginia,
+Unknown County,2021-04-03,Wisconsin,
+Unknown County,2021-04-03,Wyoming,
