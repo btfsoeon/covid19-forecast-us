@@ -4,12 +4,6 @@ from scrapy.loader import ItemLoader
 from scrapy.loader.processors import Join, MapCompose, SelectJmes
 from ccrawler.items import CcrawlerItem
 
-# STATES = ['AL','AK','AZ','AR','CA','CO','CT','DE','DC','FL','GA','HI',
-#           'ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN',
-#           'MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH',
-#           'OK','OR','PA','PR','RI','SC','SD','TN','TX','UT','VT','VA',
-#           'WA','WV','WI','WY']
-
 
 class CdcSpider(scrapy.Spider):
     name = 'cdc'
@@ -24,8 +18,6 @@ class CdcSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        # this is the problem, see
-        # https://docs.scrapy.org/en/latest/topics/request-response.html
         jsonresp = json.loads(response.body_as_unicode())['vaccination_county_condensed_data']
 
         for vacc in jsonresp:
