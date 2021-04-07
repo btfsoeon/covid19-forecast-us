@@ -1,4 +1,4 @@
-# covid19-forecast-usa
+# covid19-forecast-us
 
 ## Purpose
 
