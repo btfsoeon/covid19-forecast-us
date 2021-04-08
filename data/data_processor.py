@@ -5,6 +5,7 @@ import json
 import os
 import requests
 import urllib.request
+import zipfile
 
 import pandas as pd
 
@@ -112,5 +113,7 @@ if not os.path.exists(sfiles_dir):
 infection_by_county.to_csv(os.path.join(sfiles_dir, 'infection_by_county.csv'), index=False)
 vaccination_by_state.to_csv(os.path.join(sfiles_dir, 'vaccination_by_state.csv'), index=False)
 variants_by_state.to_csv(os.path.join(sfiles_dir, 'variants_by_state.csv'), index=False)
+
+#TODO compress
 
 print('Completed exporting!')
