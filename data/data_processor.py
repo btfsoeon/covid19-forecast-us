@@ -3,9 +3,8 @@
 
 import json
 import os
-import requests
+import shutil
 import urllib.request
-import zipfile
 
 import pandas as pd
 
@@ -53,7 +52,6 @@ print('Completed data loading!')
 ### data preprocessing ###
 
 ## population ##
-
 df['population_by_county'].drop(columns = ['OBJECTID', 'GEO_ID', 'GEO_LAND_AREA_SQ_KM', 'FIPS_CODE', 'B01001_001M', 'B09020_021E', 'B09020_021M'], inplace=True)
 df['population_by_county'].info()
 
@@ -79,7 +77,6 @@ infection_by_county['deaths_pct'] = infection_by_county['deaths'] / infection_by
 
 
 ## vaccination ##
-
 df['vaccination_by_state'].drop(columns = ['total_distributed', 'people_vaccinated', 'people_vaccinated_per_hundred', 'daily_vaccinations_raw', 'daily_vaccinations', 'share_doses_used', 'distributed_per_hundred'],  inplace=True)
 
 df['vaccination_by_state'] = df['vaccination_by_state'].rename(columns={'location': 'state'})
@@ -91,7 +88,6 @@ vaccination_by_state = df['vaccination_by_state']
 
 
 ## variant ##
-
 variants_by_state = []
 for dl1 in dj['variants_by_state']:
     for dl2 in dj['variants_by_state'][dl1]:
@@ -105,8 +101,7 @@ variants_by_state = variants_by_state.rename(columns = {
 
 
 ### export ###
-
-sfiles_dir = './sanitized'
+sfiles_dir = './processed'
 if not os.path.exists(sfiles_dir):
     os.mkdir(sfiles_dir)
 
@@ -114,6 +109,8 @@ infection_by_county.to_csv(os.path.join(sfiles_dir, 'infection_by_county.csv'), 
 vaccination_by_state.to_csv(os.path.join(sfiles_dir, 'vaccination_by_state.csv'), index=False)
 variants_by_state.to_csv(os.path.join(sfiles_dir, 'variants_by_state.csv'), index=False)
 
-#TODO compress
+
+### compress ###
+shutil.make_archive('processed', 'zip',  sfiles_dir)
 
 print('Completed exporting!')
